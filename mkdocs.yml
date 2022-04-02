@@ -1,6 +1,7 @@
 site_name: High Stakes Validator Resources
 repo_url: https://github.com/HighStakesSwitzerland/docs
 site_description: Staking services with professional quality.
+edit_uri: edit/main/docs/
 
 dev_addr: 0.0.0.0:8000
 
@@ -16,6 +17,7 @@ theme:
   name: material
   features:
     - navigation.instant
+    - navigation.top
 
 markdown_extensions:
   - admonition
