@@ -1,0 +1,29 @@
+site_name: High Stakes Validator Resources
+repo_url: https://github.com/HighStakesSwitzerland/docs
+site_description: Staking services with professional quality.
+
+dev_addr: 0.0.0.0:8000
+
+nav:
+  - Introduction: 'index.md'
+  - Staking Guides:
+    - Terra: 'delegating/terra.md'
+    - Injective: 'delegating/injective.md'
+
+  - 'Issue Tracker': 'https://status.highstakes.ch/'
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - meta
+  - tables
+
+extra_css:
+  - css/extra.css

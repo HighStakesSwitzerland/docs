@@ -1,2 +1,3 @@
 # docs
-Mkdocs repository
+
+Mkdocs repository for https://docs.highstakes.ch/
