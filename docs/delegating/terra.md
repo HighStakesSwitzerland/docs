@@ -13,16 +13,15 @@ hide:
 
 <br/>
 
-| Chain Parameter            | Value |
-|----------------------------|------------------------------------ |
-| Reward rate                | approximately 10% APY |
+| Chain Parameter            | Value                  |
+|----------------------------|------------------------|
+| Reward rate                | approximately 10% APY  |
 | Commission                 | 10% of the reward rate |
-| Minimum tokens to stake    | No minimum |
-| Unbonding period           | 21 days |
-| Commission                 | 10% |
-| Slashing for downtime      | 0.01% |
-| Slashing for rogue nodes   | 5% |
-| Slashing for missed oracle | 0.01% |
+| Minimum tokens to stake    | No minimum             |
+| Unbonding period           | 21 days                |
+| Slashing for downtime      | 0.01%                  |
+| Slashing for rogue nodes   | 5%                     |
+| Slashing for missed oracle | 0.01%                  |
 
 <br/>
 
@@ -68,3 +67,4 @@ Congratulations, you’ve just delegated Luna!
     Yes, all users with staked tokens can vote on any proposal using Terran Station wallet.
     Validators are able to cast votes on behalf of their delegators, but it is overridden by the votes of the users.
 
+<br/>
