@@ -17,7 +17,7 @@ hide:
     Always make sure of the URL of the website before signing a transaction with your wallet. 
     Fake websites impersonating wallets or UIs are circulating over the internet.  
 
-    Using non-custodial wallets mean you stays in control of your seed phrases or secret keys, and as such, you have the responsibility of safeguarding them.  
+    Using non-custodial wallets mean you stay in control of your seed phrases or secret keys, and as such, you have the responsibility of safeguarding them.  
     [Read more](https://highstakes.ch/secure-your-seed-phrases){:target="_blank"}
 
 <br/>
