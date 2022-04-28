@@ -5,7 +5,7 @@ hide:
 ##### Delegation guides, FAQs and more
 
 # Welcome
-### Stake on High Stake Switzerland trusted and reliable validators
+### Stake on High Stakes Switzerland trusted and reliable validators
 
 -   Enterprise-grade quality so you can stake safely and securely
 -   Delegate from your preferred wallet or non-custody solution
