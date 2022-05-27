@@ -7,6 +7,7 @@ dev_addr: 0.0.0.0:8000
 
 nav:
   - Introduction: 'index.md'
+  - Auto-compounding: 'autocompound.md'
   - Staking Guides:
     - Terra: 'delegating/terra.md'
     - Injective: 'delegating/injective.md'
