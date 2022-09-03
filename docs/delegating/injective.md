@@ -15,21 +15,21 @@ hide:
 
 | Chain Parameter            | Value                 |
 |----------------------------|-----------------------|
-| Reward rate                | 9.70% APY             |
+| Reward rate                | 14.35% APY             |
 | Commission                 | 5% of the reward rate |
 | Minimum tokens to stake    | No minimum            |
-| Unbonding period           | 1 days (24h)          |
+| Unbonding period           | 21 days               |
 | Slashing for downtime      | 0.01%                 |
 | Slashing for rogue nodes   | 5%                    |
 
 ## Wallet choices
 
-Currently Injective Hub only supports Metamask. If you do not know how to setup Metamask, you can visit the Injective Learn resource: [How to Setup Metamask](https://blog.injectiveprotocol.com/how-to-set-up-metamask/){target=_blank}.
+Injective Hub supports [Metamask](https://metamask.io/){target=_blank}, [Keplr](https://wallet.keplr.app/){target=_blank}, [Torus](https://tor.us/){target=_blank}, [Ledger](https://www.ledger.com/){target=_blank} and [Trezor](https://trezor.io/){target=_blank}.
 
 
 ## How to stake
 
-1. Got to [https://hub.injective.network/](https://hub.injective.network/){target=_blank} and connect the web3 wallet (either MetaMask or Ledger) you are using to store your INJ (ERC-20) tokens.
+1. Got to [https://hub.injective.network/](https://hub.injective.network/){target=_blank} and connect the web3 wallet you are using to store your INJ (ERC-20) tokens.
 2. Click Wallet from the top menu bar to open the wallet page and transfer your INJ to the Injective Chain using the Injective to Ethereum bidirectional ERC-20 Bridge
 3. Open [High Stakes Validators](https://hub.injective.network/validators/injvaloper1f2kdg34689x93cvw2y59z7y46dvz2fk8lhddfz){target=_blank} page
 4. Enter the amount to stake, click Delegate, and sign the delegation transaction via MetaMask. 
@@ -40,13 +40,13 @@ Congratulations! Your INJ is now staked.
 
 ??? note "Which wallets are currently supported?"
 
-    Currently, only the Metamask extension on the desktop browser and Ledger are supported.
+    Currently Metamask, Keplr, Torus, Ledger and Trezro supported.
 
 ??? note "Do I need ETH to pay for Gas fees?"
 
     Yes, but only for the approval, deposit, and withdrawal of your tokens when performing transactions on through Ethereum
 
-??? node "Can I stake using a Ledger?"
+??? note "Can I stake using a Ledger?"
 
     Yes, Injective have a native integration and you can stake directly with a Ledger.
 

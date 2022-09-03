@@ -3,19 +3,19 @@ hide:
 - toc
 ---
 
-# Terra
+# Terra 2.0
 
-### Terra is a programmable money for the internet that is easier to spend, and more attractive to hold.
+### Fueled by a passionate community and deep developer pool, the new Terra blockchain is one of the most decentralized chains ever launched.
 
 !!! note
 
-    Validator address: [terravaloper1uymwfafhq8fruvcjq8k67a29nqzrxnv9m6m427](https://station.terra.money/validator/terravaloper1uymwfafhq8fruvcjq8k67a29nqzrxnv9m6m427){target=_blank}
+    Validator address: [terravaloper1pgyelqv0hwjavgf6vhdm4e4pt766wfxxczu20l](https://finder.terra.money/mainnet/validator/terravaloper1pgyelqv0hwjavgf6vhdm4e4pt766wfxxczu20l){target=_blank}
 
 <br/>
 
 | Chain Parameter            | Value                  |
 |----------------------------|------------------------|
-| Reward rate                | approximately 10% APY  |
+| Reward rate                | 14.50%                 |
 | Commission                 | 10% of the reward rate |
 | Minimum tokens to stake    | No minimum             |
 | Unbonding period           | 21 days                |
@@ -50,7 +50,7 @@ Congratulations, you’ve just delegated Luna!
 
 ??? note "What are Terra staking reward rates?"
 
-    The protocol is non-inflationary, meaning the staking rewards are a percentage of transaction fees from the Terra payment network. The current rate oscillates around 10% since the launch of columbus-5 upgrade.
+    The current rate is approximately 14.5%, taking into account our validator commission of 10%.
 
 ??? note "Are there any risks when delegating?"
 
