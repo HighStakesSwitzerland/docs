@@ -62,7 +62,7 @@ Congratulations! Your INJ is now staked.
 
 ??? note "Can I vote on governance proposals?"
 
-    Yes, all users with staked tokens can vote on any proposal using Terran Station wallet.
+    Yes, all users with staked tokens can vote on any proposal using their wallet.
     Validators are able to cast votes on behalf of their delegators, but it is overridden by the votes of the users.
 
 
