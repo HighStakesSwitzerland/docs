@@ -15,7 +15,7 @@ hide:
 
 | Chain Parameter            | Value                 |
 |----------------------------|-----------------------|
-| Reward rate                | 14.35% APY             |
+| Reward rate                | 17.06% APR            |
 | Commission                 | 5% of the reward rate |
 | Minimum tokens to stake    | No minimum            |
 | Unbonding period           | 21 days               |
