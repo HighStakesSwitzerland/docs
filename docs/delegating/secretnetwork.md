@@ -31,7 +31,7 @@ Secret Network is supported by multiple wallets including [Keplr](https://wallet
 
 ## How to stake
 
-Open the [Keplr app](https://wallet.keplr.app/chains/secret-network)and click **Staking**.
+Open the [Keplr app](https://wallet.keplr.app/chains/secret-network) and click on **Staking**.
 
 1. Search for High Stakes in the list of validators and click on **Manage**. A new window will appear.
 
