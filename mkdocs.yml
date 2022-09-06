@@ -11,7 +11,7 @@ nav:
   - Staking Guides:
     - Terra: 'delegating/terra.md'
     - Injective: 'delegating/injective.md'
-
+    - Secret Network: 'delegating/secretnetwork.md'
   - 'Issue Tracker': 'https://status.highstakes.ch/'
 
 theme:
