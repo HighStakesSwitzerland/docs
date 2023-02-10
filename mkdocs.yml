@@ -1,4 +1,4 @@
-site_name: High Stakes Validator Resources
+site_name: High Stakes  🇨🇭 Resources
 repo_url: https://github.com/HighStakesSwitzerland/docs
 site_description: Staking services with professional quality.
 edit_uri: edit/main/docs/
@@ -6,13 +6,17 @@ edit_uri: edit/main/docs/
 dev_addr: 0.0.0.0:8000
 
 nav:
-  - Introduction: 'index.md'
-  - Auto-compounding: 'autocompound.md'
+  - Who We Are: 'index.md'
+  - IBEX Loyalty Program:
+      - Introduction: 'loyalty-program/index.md'
+      - User Guide: 'loyalty-program/user-guide.md'
+      - Linking Wallets: 'loyalty-program/link.md'
   - Staking Guides:
     - Terra: 'delegating/terra.md'
     - Injective: 'delegating/injective.md'
     - Secret Network: 'delegating/secretnetwork.md'
-  - 'Issue Tracker': 'https://status.highstakes.ch/'
+  - Auto-compounding: 'autocompound.md'
+#  - Issue Tracker: 'https://status.highstakes.ch/'
 
 theme:
   name: material
