@@ -13,4 +13,4 @@ hide:
 
 ![Screenshot](img/redeem/step_2.png)
 
-#### 3 - That's it! The corresponding ATOMs will be sent to the Cosmos wallet associated with your connected account 🤩 
+#### 3 - That's it! The corresponding ATOMs will be immediately sent to the Cosmos wallet associated with your connected account 🤩 
