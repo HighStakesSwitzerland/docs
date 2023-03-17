@@ -5,7 +5,7 @@ hide:
 
 # High Stakes Switzerland's IBEX Loyalty Program
 
-With the IBEX Program, High Stakes' delegators have an opportunity to boost their staking rewards by earning a share of the yield of a Staking Fund that belongs to the company.
+With the IBEX Program, [High Stakes]([https://highstakes.ch)' delegators have an opportunity to boost their staking rewards by earning a share of the yield of a Staking Fund that belongs to the company.
 
 This fund, which is held in ATOM and staked on our Cosmos validator, generates staking rewards that are withdrawn and distributed to the registered users, prorated to the overall USD value of the tokens they stake on any of the eligible validators operated by High Stakes.
 
@@ -27,9 +27,16 @@ When participants redeem their IBEX points, the corresponding ATOM amount is tra
 
 For security reasons, most of us have different wallets and seed phrases for our different tokens.
 
-The problem being that if the proverbial Alice delegates 800 USD worth of ATOM from an account, 600 USD worth of INJ from another, and 900 USD worth of BAND from yet another, she will register each of these account but none of them will be eligible to earn IBEX since their individual staked value is below $1000.
+If a user delegates the following amounts:
 
-The participants have the opportunity to _link their different registered accounts_, in which case the value of the accounts delegations will be summed up. In the above example, Alice will be staking 800+600+900 = 2300 USD worth of tokens, and will receive her daily share of IBEX points.
+  - 800 USD worth of ATOM from an account,
+  - 600 USD worth of INJ from another, 
+  - 900 USD worth of BAND from yet another,
+
+He will register each of these account but none of them will be eligible to earn IBEX since their individual staked value is below $1000.
+
+The participants have the opportunity to _link their different registered accounts_, in which case the value of the delegations from the different accounts will be summed up.
+In the above example, the user will be staking 800+600+900 = 2300 USD worth of tokens, and will receive his daily share of IBEX points.
 
 Head to the appropriate [section](https://docs.highstakes.ch/loyalty-program/link/) to learn how to proceed.
 
@@ -42,4 +49,5 @@ The allocated amount of allocated ATOMs will depend on the overall financial res
 ## The initial airdrop
 
 We have taken snapshots of our delegators over the past months, and will allocate an initial amount of IBEX points to all the participants that register when the program launches, in proportion to the USD value of their delegations and the time they have been staking with us.
+This airdrop will be calculated in a few weeks, once enough users have registered. Stay tuned!
 
