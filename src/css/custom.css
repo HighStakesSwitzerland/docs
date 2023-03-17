@@ -1,0 +1,32 @@
+.menu_outer_list {
+    margin-bottom: 20px;
+    padding-top: 5px;
+    position: relative;
+}
+
+.menu_outer_list:not(:nth-child(2))::before {
+    content: '';
+    display: block;
+    position: absolute;
+    left: 12px;
+    top: 0;
+    height: 1px;
+    width: 100%;
+}
+
+.menu_outer_list:nth-child(2) {
+    margin-top: 21px;
+}
+
+.menu_outer_list > div a {
+    text-transform: uppercase;
+    font-size: 13px;
+}
+
+.menu_outer_list > div:hover {
+    background-color: transparent;
+}
+
+.menu_outer_list > ul {
+    padding-left: 0 !important;
+}
