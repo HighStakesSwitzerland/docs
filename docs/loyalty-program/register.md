@@ -5,7 +5,7 @@ hide:
 
 # User Guide - Registering
 
-#### 1 - Head to https://app.highstakes.ch and click on the "Connect" button, then select either Keplr or Cosmostation.
+#### 1 - Head to [https://app.highstakes.ch](https://app.highstakes.ch) and click on the "Connect" button, then select either Keplr or Cosmostation.
 
 ![Screenshot](img/register/step_1.png)
 
