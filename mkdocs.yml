@@ -9,7 +9,8 @@ nav:
   - Who We Are: 'index.md'
   - IBEX Loyalty Program:
       - Introduction: 'loyalty-program/index.md'
-      - User Guide: 'loyalty-program/user-guide.md'
+      - Registering: 'loyalty-program/register.md'
+      - Redeeming: 'loyalty-program/redeem.md'
       - Linking Wallets: 'loyalty-program/link.md'
   - Staking Guides:
     - Terra: 'delegating/terra.md'
