@@ -1,4 +1,4 @@
-# User Guide - Linking Multiple Wallets
+# Linking Multiple Wallets
 
 If you stake from different wallets (i.e., different seeds), you can link them to combine staked amounts and calculate overall IBEX points. This is especially helpful if you stake less than $1000, the minimum amount required to be eligible for IBEX points, on each wallet.
 

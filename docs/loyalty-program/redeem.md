@@ -1,4 +1,4 @@
-# User Guide - Redeeming Your IBEX Points for ATOM
+# Redeeming Your IBEX Points for ATOM
 
 Once you've earned enough IBEX points, you can redeem them for ATOM on the HighStakes platform. Here's how:
 

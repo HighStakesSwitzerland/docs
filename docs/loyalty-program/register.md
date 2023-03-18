@@ -1,4 +1,4 @@
-# User Guide - Registration
+# Registration
 
 
 ## Connection
