@@ -14,9 +14,9 @@ Provenance empowers businesses to share authenticated, verifiable information ab
 
 | 📈 Parameter                | 🎯 Value              |
 |-----------------------------|-----------------------|
-| 🎁 Reward rate (APR/APY)    | ~10%                  |
-| 💰 Commission               | 3% of the reward rate |
-| 🔒 Minimum tokens to stake  | 1 PROV                |
+| 🎁 Reward rate (APR/APY)    | ~0%                  |
+| 💰 Commission               | 10% of the reward rate |
+| 🔒 Minimum tokens to stake  | 1 HASH                |
 | ⏳ Unbonding period          | 21 days               |
 | ❌ Slashing for downtime     | 0.01%                 |
 | 💥 Slashing for rogue nodes | 5%                    |
