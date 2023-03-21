@@ -14,8 +14,8 @@ Migaloo empowers ocean conservation projects, supports eco-friendly businesses, 
 | 📈 Parameter                | 🎯 Value              |
 |-----------------------------|-----------------------|
 | 🎁 Reward rate (APR/APY)    | 12.42% / 13.23%       |
-| 💰 Commission               | 3% of the reward rate |
-| 🔒 Minimum tokens to stake  | 1 MGL                 |
+| 💰 Commission               | 5% of the reward rate |
+| 🔒 Minimum tokens to stake  | 1 WHALE                 |
 | ⏳ Unbonding period          | 21 days               |
 | ❌ Slashing for downtime     | 0.01%                 |
 | 💥 Slashing for rogue nodes | 5%                    |
