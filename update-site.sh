@@ -8,6 +8,6 @@ sudo -u www-data npm run build
 
 # nginx config is pointing to dist_prod
 # copy is almost instant
-cp -R ./dist/ ./dist_prod
+cp -R ./build/ ./dist_prod
 
 echo "Site updated"
