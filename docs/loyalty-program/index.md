@@ -22,7 +22,7 @@ This fund, which is held in ATOM and staked on our Cosmos validator, generates s
 
 ## How it works
 
-Participants can register by connecting a wallet (either through Cosmostation or Keplr, more integrations to come), and are identified by the Secret Network address associated with this account.
+Participants can register by connecting a wallet (either through Cosmostation or Keplr, more integrations to come), and are identified by the Cosmos Network address associated with this account.
 
 They can afterwards activate any available network: the staked amount will be picked up and used to calculate their IBEX allocation.
 All delegators can register, however, they can start earning IBEX points only if they stake overall at least $1000.
