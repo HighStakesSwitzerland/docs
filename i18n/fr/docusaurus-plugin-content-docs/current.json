@@ -1,0 +1,42 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.mainSidebar.category.Introduction": {
+    "message": "Introduction",
+    "description": "The label for category Introduction in sidebar mainSidebar"
+  },
+  "sidebar.mainSidebar.category.User Guides": {
+    "message": "User Guides",
+    "description": "The label for category User Guides in sidebar mainSidebar"
+  },
+  "sidebar.mainSidebar.category.IBEX Loyalty Program": {
+    "message": "IBEX Loyalty Program",
+    "description": "The label for category IBEX Loyalty Program in sidebar mainSidebar"
+  },
+  "sidebar.mainSidebar.category.IBEX Loyalty Program.link.generated-index.title": {
+    "message": "IBEX Loyalty Program",
+    "description": "The generated-index page title for category IBEX Loyalty Program in sidebar mainSidebar"
+  },
+  "sidebar.mainSidebar.category.IBEX Loyalty Program.link.generated-index.description": {
+    "message": "High Stakes' Stakers extra reward program",
+    "description": "The generated-index page description for category IBEX Loyalty Program in sidebar mainSidebar"
+  },
+  "sidebar.mainSidebar.category.Staking Guides": {
+    "message": "Staking Guides",
+    "description": "The label for category Staking Guides in sidebar mainSidebar"
+  },
+  "sidebar.mainSidebar.category.Staking Guides.link.generated-index.title": {
+    "message": "Staking Guides",
+    "description": "The generated-index page title for category Staking Guides in sidebar mainSidebar"
+  },
+  "sidebar.mainSidebar.category.Staking Guides.link.generated-index.description": {
+    "message": "Staking guides for the chains we support. More to come soon!",
+    "description": "The generated-index page description for category Staking Guides in sidebar mainSidebar"
+  },
+  "sidebar.mainSidebar.doc.About": {
+    "message": "About",
+    "description": "The label for the doc item About in sidebar mainSidebar, linking to the doc index"
+  }
+}

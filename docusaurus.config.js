@@ -21,15 +21,12 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'fr'],
+    localeConfigs: {
+    },
   },
-
-  onBrokenLinks: 'warn',
 
   presets: [
     [
@@ -56,6 +53,10 @@ const config = {
       {
         navbar: {
           items: [
+            {
+              type: 'localeDropdown',
+              position: 'left',
+            },
             {
               type: 'html',
               value:
