@@ -3,62 +3,62 @@ slug: /loyalty-program/
 ---
 # Introduction
 
-## Requirements
+## Conditions requises
 :::info
-* Keplr or Cosmostation browser extensions
-* One or multiple wallets staking on High Stakes 🇨🇭 validators on the eligible chains
+* Extensions de navigateur Keplr ou Cosmostation
+* Un ou plusieurs wallet avec des cryptos en staking sur les validateurs High Stakes 🇨🇭 des chaînes éligibles
 :::
 
-## The IBEX Program
+## Le programme IBEX
 
-With the IBEX Program, <a href="https://highstakes.ch">High Stakes</a>' delegators have an opportunity to boost their staking rewards by earning a share of the yield of a Staking Fund that belongs to the company.
+Avec le programme IBEX, les stakers de <a href="https://highstakes.ch">High Stakes</a> ont l'opportunité d'augmenter leurs récompenses de staking en gagnant une part du rendement des staling rewards de nos validateurs (toutes chaines confondues), plus les rendements d'un Staking Fund appartenant à l'entreprise.
 
-This fund, which is held in ATOM and staked on our Cosmos validator, generates staking rewards that are withdrawn and distributed to the registered users, prorated to the overall USD value of the tokens they stake on any of the eligible validators operated by High Stakes.
+Ce fonds, détenu en ATOM et staké sur notre validateur Cosmos, génère des rewards qui sont distribuées aux utilisateurs enregistrés, proportionnellement à la valeur globale en USD des tokens qu'ils stakent sur l'un des validateurs éligibles opéré par High Stakes 🇨🇭.
 
 :::tip
-- Users earn IBEX loyalty points that are accrued each day, and can redeem them against ATOM as soon as they hold 250 IBEX.
-- The current conversion rate is 1000 IBEX = 1 ATOM.
+- Les utilisateurs accumulent des points de fidélité IBEX qui sont crédités chaque jour et peuvent les échanger contre des ATOM dès qu'ils en possèdent 250 IBEX.
+- Le taux de conversion actuel est de 1000 IBEX = 1 ATOM.
 :::
 
-## How it works
+## Fonctionnement
 
-Participants can register by connecting a wallet (either through Cosmostation or Keplr, more integrations to come), and are identified by the Cosmos Network address associated with this account.
+Les participants peuvent s'inscrire en connectant un wallet (soit via Cosmostation, soit via Keplr, avec d'autres intégrations à venir) et sont identifiés par l'adresse Cosmos associée à ce compte.
 
-They can afterwards activate any available network: the staked amount will be picked up and used to calculate their IBEX allocation.
-All delegators can register, however, they can start earning IBEX points only if they stake overall at least $1000.
+Ensuite, ils peuvent activer n'importe quel chaine disponible : le montant staké sera pris en compte et utilisé pour calculer leur allocation IBEX.
+Tous les stakers peuvent s'inscrire, mais ils ne peuvent commencer à accumuler des points IBEX que s'ils misent au moins 50 $ au total.
 
-Each day, the IBEX points earned will be calculated and allocated; their amount will vary based on the changes in the user's delegations, exchange rates, and other participants. A quadratic function is used to ensure that "whales" do not earn a disproportionate amount of the daily available IBEX.
+Chaque jour, les points IBEX gagnés seront calculés et attribués ; leur montant variera en fonction des modifications des délégations de l'utilisateur, des taux de change et des autres participants. Une fonction quadratique est utilisée pour garantir que les "gros porteurs" n'accumulent pas une quantité disproportionnée de points IBEX disponibles quotidiennement.
 
-When participants redeem their IBEX points, the corresponding ATOM amount is transferred to the Cosmos wallet associated with their account -- which means that they need to activate the Cosmos chain after registering to the program.
+Lorsque les participants échangent leurs points IBEX, la quantité correspondante d'ATOM est transférée vers le wallet Cosmos associé à leur compte.
 
-## Multiple wallets support
+## Prise en charge de plusieurs wallets
 
-For security reasons, most of us have different wallets and seed phrases for our different tokens.
+Pour des raisons de sécurité, la plupart d'entre nous ont différents wallet et seed phrases pour nos différentes cryptos.
 
-If a user delegates the following amounts:
+Si un utilisateur délègue les montants suivants :
 
-- 800 USD worth of ATOM from an account,
-- 600 USD worth of INJ from another,
-- 900 USD worth of BAND from yet another,
+- 800 $ en valeur d'ATOM depuis un compte,
+- 600 $ en valeur d'INJ depuis un autre compte,
+- 900 $ en valeur de BAND depuis encore un autre compte,
 
-He will register each of these accounts but none of them will be eligible to earn IBEX since their individual staked value is below $1000.
+Il enregistrera chacun de ces comptes, mais aucun d'entre eux ne sera éligible pour accumuler des points IBEX car leur valeur individuelle en staking est inférieure à 500 $.
 
-The participants have the opportunity to _link their different registered accounts_, in which case, the value of the delegations from the different accounts will be summed up.
+Les participants ont la possibilité de _lier leurs différents comptes enregistrés_, auquel cas la valeur des délégations provenant des différents comptes sera additionnée.
 
-In the above example, the user will be staking 800+600+900 = 2300 USD worth of tokens, and will receive his daily share of IBEX points.
+Dans l'exemple ci-dessus, l'utilisateur stakera une valeur totale de tokens de 800+600+900 = 2300$, et recevra sa part quotidienne de points IBEX.
 
-Head to the appropriate <a href="/loyalty-program/link/">section</a> to learn how to proceed.
+Rendez-vous dans la <a href="/loyalty-program/link/">section appropriée</a> pour apprendre comment procéder.
 
-## Rewarding the long-term stakers
+## Récompense des stakers à long terme
 
-Each year in December, a variable amount of ATOMs will be distributed to all the participants, prorated to the IBEX points they earned over the past year, and the number of days they delegated to High Stakes.
+Chaque année en décembre, une quantité variable d'ATOMs sera distribuée à tous les participants, proportionnellement aux points IBEX accumulés au cours de l'année précédente et au nombre de jours de délégation auprès de High Stakes.
 
-The allocated amount of ATOMs will depend on the overall financial results of the company and global market trends, but we will ensure that those who have been loyal to us receive a reward that matches our gratefulness.
+Le montant alloué d'ATOMs dépendra des résultats financiers globaux de l'entreprise et des tendances du marché, mais nous veillerons à ce que ceux qui nous ont été fidèles reçoivent une récompense qui témoigne de notre gratitude.
 
-## The initial airdrop
+## La distribution initiale de tokens
 
-We have taken snapshots of our delegators over the past months, and will allocate an initial amount of IBEX points to all the participants that register when the program launches, in proportion to the USD value of their delegations and the time they have been staking with us.
+Nous avons pris des snapshots de nos stakers au cours des derniers mois et allouerons une quantité initiale de points IBEX à tous les participants qui s'inscrivent lors du lancement du programme, proportionnellement à la valeur en USD de leurs délégations et à la durée pendant laquelle ils ont staké avec nous.
 
 :::info
-This airdrop will be calculated in a few weeks, once enough users have registered. Stay tuned!
+Cette distribution de tokens à été calculée en Mai. Il est possible de "claim" cet airdrop jusqu'au 1er Juillet 2023.
 :::

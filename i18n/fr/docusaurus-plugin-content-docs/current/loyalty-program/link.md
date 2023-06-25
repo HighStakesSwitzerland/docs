@@ -1,19 +1,19 @@
-# Linking Multiple Wallets
+# Liaison de plusieurs wallets
 
-If you stake from different wallets (i.e., different seeds), you can link them to combine staked amounts and calculate overall IBEX points. This is especially helpful if you stake less than $1000, the minimum amount required to be eligible for IBEX points, on each wallet.
+Si vous stakez à partir de différents wallet (c'est-à-dire différentes seed phrases), vous pouvez les lier pour combiner les montants stakés et calculer les points IBEX globaux. Cela est particulièrement utile si vous stakez moins de 500$, le montant minimum requis pour être éligible aux points IBEX, sur chaque wallet.
 
-## Linking Your Wallets
+## Liaison de vos wallets
 
-To link your wallets, follow these steps:
+Pour lier vos wallet, suivez ces étapes :
 
-1. Click on "link" and sign the first message with your primary wallet.
+1. Cliquez sur "link" et signez le premier message avec votre wallet principal.
 
-![Screenshot](img/link/step_1.png)
+![Capture d'écran](img/link/step_1.png)
 
-2. Switch to the other wallet in Keplr or Cosmostation (which must also be registered), and sign a second message to confirm the link.
+2. Passez à l'autre wallet dans Keplr ou Cosmostation (qui doit également être enregistré) et signez un deuxième message pour confirmer la liaison.
 
-![Screenshot](img/link/step_2.png)
+![Capture d'écran](img/link/step_2.png)
 
-Once you've completed these steps, your IBEX points will be shared between all linked wallets. 🚀
+Une fois que vous avez terminé ces étapes, vos points IBEX seront partagés entre tous les wallet liés. 🚀
 
-If you have any questions or need further assistance, please don't hesitate to contact us.
+Si vous avez des questions ou avez besoin d'une assistance supplémentaire, n'hésitez pas à nous contacter!

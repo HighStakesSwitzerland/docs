@@ -1,6 +1,5 @@
 # Registration
 
-
 ## Connection
 To get started, go to <a href="https://app.highstakes.ch" target="_blank">https://app.highstakes.ch</a> and click on the "Connect" button. Next, choose either Keplr or Cosmostation as your wallet provider.
 

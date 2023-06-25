@@ -20,7 +20,7 @@
 
 ## 🌐 Wallet Choices
 
-**[Terra Station](https://docs.terra.money/docs/learn/terra-station/download/terra-station-desktop.html)** is the preferred wallet and is compatible with Ledger devices, but only the desktop version support staking. **[Keplr](https://wallet.keplr.app/)** has also beta support that can be activated through **[Osmosis](https://app.osmosis.zone/assets)**.
+**[Terra Station](https://docs.terra.money/docs/learn/terra-station/download/terra-station-desktop.html)** is the preferred wallet and is compatible with Ledger devices. **[Keplr](https://wallet.keplr.app/)** has also beta support that can be activated through **[Osmosis](https://app.osmosis.zone/assets)**.
 
 ## 🏁 How to Stake
 

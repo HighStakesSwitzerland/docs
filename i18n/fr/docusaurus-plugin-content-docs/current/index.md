@@ -2,17 +2,17 @@
 slug: /
 ---
 
-# Bienvenu
+# Bienvenue
 ### High Stakes Switzerland
 ##### Guides de délégation, FAQ et plus encore.
 
 -   Une qualité de niveau professionnel pour que vous puissiez staker en toute sécurité
--   Déléguez à partir de votre portefeuille préféré ou d'une solution non-custodial
+-   Déléguez à partir de votre wallet préféré ou d'une solution non-custodial
 
 <br/>
 
 :::caution "Clause de sécurité"
-Assurez-vous toujours de l'URL du site web avant de signer une transaction avec votre portefeuille.
+Assurez-vous toujours de l'URL du site web avant de signer une transaction avec votre wallet.
 Des sites web frauduleux se faisant passer pour des wallet ou des interfaces utilisateur circulent sur internet.
 
 L'utilisation de wallet "non-custodial" signifie que vous restez en contrôle de vos seed phrases (la liste de 12 ou 24 mots) et de vos clés secrètes, et par conséquent, vous avez la responsabilité de les protéger.  

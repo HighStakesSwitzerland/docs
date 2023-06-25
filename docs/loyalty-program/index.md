@@ -11,7 +11,7 @@ slug: /loyalty-program/
 
 ## The IBEX Program
 
-With the IBEX Program, <a href="https://highstakes.ch">High Stakes</a>' delegators have an opportunity to boost their staking rewards by earning a share of the yield of a Staking Fund that belongs to the company.
+With the IBEX Program, <a href="https://highstakes.ch">High Stakes</a>' delegators have an opportunity to boost their staking rewards by earning a share of the yield of our validators (over all chains), plus the yeild of a Staking Fund that belongs to the company.
 
 This fund, which is held in ATOM and staked on our Cosmos validator, generates staking rewards that are withdrawn and distributed to the registered users, prorated to the overall USD value of the tokens they stake on any of the eligible validators operated by High Stakes.
 
@@ -25,11 +25,11 @@ This fund, which is held in ATOM and staked on our Cosmos validator, generates s
 Participants can register by connecting a wallet (either through Cosmostation or Keplr, more integrations to come), and are identified by the Cosmos Network address associated with this account.
 
 They can afterwards activate any available network: the staked amount will be picked up and used to calculate their IBEX allocation.
-All delegators can register, however, they can start earning IBEX points only if they stake overall at least $1000.
+All delegators can register, however, they can start earning IBEX points only if they stake overall at least $500.
 
 Each day, the IBEX points earned will be calculated and allocated; their amount will vary based on the changes in the user's delegations, exchange rates, and other participants. A quadratic function is used to ensure that "whales" do not earn a disproportionate amount of the daily available IBEX.
 
-When participants redeem their IBEX points, the corresponding ATOM amount is transferred to the Cosmos wallet associated with their account -- which means that they need to activate the Cosmos chain after registering to the program.
+When participants redeem their IBEX points, the corresponding ATOM amount is transferred to the Cosmos wallet associated with their account.
 
 ## Multiple wallets support
 
@@ -41,7 +41,7 @@ If a user delegates the following amounts:
 - 600 USD worth of INJ from another,
 - 900 USD worth of BAND from yet another,
 
-He will register each of these accounts but none of them will be eligible to earn IBEX since their individual staked value is below $1000.
+He will register each of these accounts but none of them will be eligible to earn IBEX since their individual staked value is below $500.
 
 The participants have the opportunity to _link their different registered accounts_, in which case, the value of the delegations from the different accounts will be summed up.
 
