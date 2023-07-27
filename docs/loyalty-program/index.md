@@ -37,15 +37,15 @@ For security reasons, most of us have different wallets and seed phrases for our
 
 If a user delegates the following amounts:
 
-- 800 USD worth of ATOM from an account,
-- 600 USD worth of INJ from another,
-- 900 USD worth of BAND from yet another,
+- 400 USD worth of ATOM from an account,
+- 300 USD worth of INJ from another,
+- 100 USD worth of BAND from yet another,
 
 He will register each of these accounts but none of them will be eligible to earn IBEX since their individual staked value is below $500.
 
 The participants have the opportunity to _link their different registered accounts_, in which case, the value of the delegations from the different accounts will be summed up.
 
-In the above example, the user will be staking 800+600+900 = 2300 USD worth of tokens, and will receive his daily share of IBEX points.
+In the above example, the user will be staking 400+300+100 = 800 USD worth of tokens, and will receive his daily share of IBEX points.
 
 Head to the appropriate <a href="/loyalty-program/link/">section</a> to learn how to proceed.
 
