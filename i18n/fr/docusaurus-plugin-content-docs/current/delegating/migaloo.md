@@ -26,13 +26,10 @@ Migaloo est pris en charge par plusieurs wallets, dont <a href="https://wallet.k
 
 ## 🏁 Comment staker
 
-1. Ouvrez l'application <a href="https://wallet.keplr.app/chains/migaloo" target="_blank" rel="noopener noreferrer">Keplr</a>, sélectionnez la chaîne et cliquez sur le bouton **Stake**.
+Migaloo est supporté sur 
+<a href="https://restake.app/migaloo/migaloovaloper1qvqqflpzkkakzwdkm2dx6f25sxnknuga4f90qp" target="_blank" rel="noopener noreferrer">restake.app</a>.
 
-2. Recherchez **High Stakes** dans la liste des validateurs et cliquez sur **Manage**. Une nouvelle fenêtre apparaîtra.
-
-3. Cliquez sur **Delegate** et saisissez le montant que vous souhaitez déléguer. Confirmez en cliquant à nouveau sur **Delegate**.
-
-   🚨 Gardez toujours quelques tokens pour payer les frais. Ne stakez jamais la totalité de votre wallet. Sans argent pour les frais, vous ne pourrez effectuer aucune transaction !
+🚨 Gardez toujours quelques tokens pour payer les frais. Ne stakez jamais la totalité de votre wallet. Sans argent pour les frais, vous ne pourrez effectuer aucune transaction !
 
 🎉 Félicitations, vous venez de déléguer des MGL !
 

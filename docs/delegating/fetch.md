@@ -26,13 +26,13 @@ Fetch.AI is supported by multiple wallets, including <a href="https://wallet.kep
 
 ## 🏁 How to Stake
 
-1. Open the <a href="https://wallet.keplr.app/chains/fetch-ai" target="_blank" rel="noopener noreferrer">Keplr app</a>, select the chain and click on the **Stake** button.
+Open the <a href="https://ping.pub/fetchhub/staking/fetchvaloper1jfxur0jse6u2h5qywhhdtnee3z4zd5cxgz2m5d" target="_blank" rel="noopener noreferrer">Ping.pub</a> webapp, connect your wallet and click on the **Delegate** button.
 
-2. Search for **High Stakes** in the list of validators and click on **Manage**. A new window will appear.
+:::info
+<a href="https://restake.app/fetchhub/fetchvaloper1jfxur0jse6u2h5qywhhdtnee3z4zd5cxgz2m5d" target="_blank" rel="noopener noreferrer">restake.app</a> also provides the functionality.
+:::
 
-3. Click on **Delegate** and enter the amount you want to delegate. Confirm by clicking on **Delegate** again.
-
-   🚨 Always keep some coins to pay fees with. Never stake your entire wallet amount. Without money for fees, you can’t make any transactions!
+🚨 Always keep some coins to pay fees with. Never stake your entire wallet amount. Without money for fees, you can’t make any transactions!
 
 🎉 Congratulations, you’ve just delegated FET!
 

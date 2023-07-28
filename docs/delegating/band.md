@@ -26,13 +26,14 @@ Band Protocol is supported by multiple wallets, including <a href="https://walle
 
 ## 🏁 How to Stake
 
-1. Open the <a href="https://wallet.keplr.app/chains/band" target="_blank" rel="noopener noreferrer">Keplr app</a>, select the chain and click on the **Stake** button.
+Open the webapp <a href="https://ping.pub/band/staking/bandvaloper1uytng9pl50mtedmsdrzanvy8vgxttvysw59ugd" target="_blank" rel="noopener noreferrer">Ping.pub</a>, connect your wallet and click **Delegate**.
 
-2. Search for **High Stakes** in the list of validators and click on **Manage**. A new window will appear.
+:::info
+<a href="https://restake.app/bandchain/bandvaloper1uytng9pl50mtedmsdrzanvy8vgxttvysw59ugd" target="_blank" rel="noopener noreferrer">restake.app</a> also provides the functionality.
+:::
 
-3. Click on **Delegate** and enter the amount you want to delegate. Confirm by clicking on **Delegate** again.
 
-   🚨 Always keep some coins to pay fees with. Never stake your entire wallet amount. Without money for fees, you can’t make any transactions!
+🚨 Always keep some coins to pay fees with. Never stake your entire wallet amount. Without money for fees, you can’t make any transactions!
 
 🎉 Congratulations, you’ve just delegated BAND!
 

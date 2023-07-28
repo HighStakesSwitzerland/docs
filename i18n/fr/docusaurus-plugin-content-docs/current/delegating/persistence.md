@@ -26,13 +26,9 @@ Persistence est pris en charge par plusieurs wallets, dont <a href="https://wall
 
 ## 🏁 Comment staker
 
-1. Ouvrez l'application <a href="https://wallet.keplr.app/chains/persistence" target="_blank" rel="noopener noreferrer">Keplr</a>, sélectionnez la chaîne et cliquez sur le bouton **Stake**.
+Ouvrez la page web de <a href="https://wallet.keplr.app/chains/persistence?modal=validator&chain=core-1&validator_address=persistencevaloper1yvcrahdpctyg77l67cnnhqf4ef5j8kanq8jeqv" target="_blank" rel="noopener noreferrer">Keplr Wallet</a>, et cliquez sur le bouton **Stake**. Rien de plus à faire!
 
-2. Recherchez **High Stakes** dans la liste des validateurs et cliquez sur **Manage**. Une nouvelle fenêtre apparaîtra.
-
-3. Cliquez sur **Delegate** et saisissez le montant que vous souhaitez déléguer. Confirmez en cliquant à nouveau sur **Delegate**.
-
-   🚨 Gardez toujours quelques tokens pour payer les frais. Ne stakez jamais la totalité de votre wallet. Sans argent pour les frais, vous ne pourrez effectuer aucune transaction !
+🚨 Gardez toujours quelques tokens pour payer les frais. Ne stakez jamais la totalité de votre wallet. Sans argent pour les frais, vous ne pourrez effectuer aucune transaction !
 
 🎉 Félicitations, vous venez de déléguer des XPRT !
 

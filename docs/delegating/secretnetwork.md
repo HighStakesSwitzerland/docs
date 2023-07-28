@@ -26,13 +26,9 @@ Secret Network is supported by multiple wallets, including <a href="https://wall
 
 ## 🏁 How to Stake
 
-1. Open the <a href="https://wallet.keplr.app/chains/secret-network" target="_blank" rel="noopener noreferrer">Keplr app</a>, select the chain and click on the **Stake** button.
+Open the web version of <a href="https://wallet.keplr.app/chains/secret-network?modal=validator&chain=secret-4&validator_address=secretvaloper1jgx4pn3acae9esq5zha5ym3kzhq6x60frjwkrp" target="_blank" rel="noopener noreferrer">Keplr wallet</a>, and click on the **Stake** button. Nothing more !
 
-2. Search for **High Stakes** in the list of validators and click on **Manage**. A new window will appear.
-
-3. Click on **Delegate** and enter the amount you want to delegate. Confirm by clicking on **Delegate** again.
-
-   🚨 Always keep some coins to pay fees with. Never stake your entire wallet amount. Without money for fees, you can’t make any transactions!
+🚨 Always keep some coins to pay fees with. Never stake your entire wallet amount. Without money for fees, you can’t make any transactions!
 
 🎉 Congratulations, you’ve just delegated SCRT!
 

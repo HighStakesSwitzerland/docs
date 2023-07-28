@@ -24,15 +24,9 @@
 
 ## 🏁 Comment staker
 
-1. Ouvrez Terra Station Desktop et cliquez sur **Staking**.
+Ouvrez la page web de <a href="https://wallet.keplr.app/chains/terra?modal=validator&chain=phoenix-1&validator_address=terravaloper1pgyelqv0hwjavgf6vhdm4e4pt766wfxxczu20l" target="_blank" rel="noopener noreferrer">Keplr Wallet</a>, et cliquez sur le bouton **Stake**. Rien de plus à faire!
 
-2. Recherchez High Stakes dans le champ et cliquez sur le nom dans la colonne **Moniker** de la liste des validateurs.
-
-3. Dans la section **My delegations**, cliquez sur **Delegate**. Une nouvelle fenêtre apparaîtra.
-
-4. Dans le champ **Amount**, spécifiez le montant de Luna que vous souhaitez déléguer, et cliquez sur **Next**.
-
-   🚨 Gardez toujours quelques tokens pour payer les frais. Ne stakez jamais la totalité de votre wallet. Sans argent pour les frais, vous ne pourrez effectuer aucune transaction !
+🚨 Gardez toujours quelques tokens pour payer les frais. Ne stakez jamais la totalité de votre wallet. Sans argent pour les frais, vous ne pourrez effectuer aucune transaction !
 
 5. Vérifiez à nouveau les montants et les frais. Entrez votre mot de passe et cliquez sur **Delegate**.
 

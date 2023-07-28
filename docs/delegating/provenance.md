@@ -27,13 +27,9 @@ Provenance is supported by multiple wallets, including <a href="https://wallet.k
 
 ## 🏁 How to Stake
 
-1. Open the <a href="https://wallet.keplr.app/chains/provenance" target="_blank" rel="noopener noreferrer">Keplr app</a>, select the chain and click on the **Stake** button.
+Open the page <a href="https://ping.pub/provenance/staking/pbvaloper1wh4yc8q7jpxg5tlh94yafjeza7a6nlmd85jhre" target="_blank" rel="noopener noreferrer">Ping.pub</a>, connect your wallet and click on the **Delegate** button.
 
-2. Search for **High Stakes** in the list of validators and click on **Manage**. A new window will appear.
-
-3. Click on **Delegate** and enter the amount you want to delegate. Confirm by clicking on **Delegate** again.
-
-   🚨 Always keep some coins to pay fees with. Never stake your entire wallet amount. Without money for fees, you can’t make any transactions!
+🚨 Always keep some coins to pay fees with. Never stake your entire wallet amount. Without money for fees, you can’t make any transactions!
 
 🎉 Congratulations, you’ve just delegated PROV!
 

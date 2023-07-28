@@ -26,13 +26,14 @@ Fetch.AI est pris en charge par plusieurs wallets, dont <a href="https://wallet.
 
 ## 🏁 Comment staker
 
-1. Ouvrez l'application <a href="https://wallet.keplr.app/chains/fetch-ai" target="_blank" rel="noopener noreferrer">Keplr</a>, sélectionnez la chaîne et cliquez sur le bouton **Stake**.
+Ouvrez l'application <a href="https://ping.pub/fetchhub/staking/fetchvaloper1jfxur0jse6u2h5qywhhdtnee3z4zd5cxgz2m5d" target="_blank" rel="noopener noreferrer">Ping.pub</a>, connectez votre wallet et cliquez sur le bouton **Delegate**.
 
-2. Recherchez **High Stakes** dans la liste des validateurs et cliquez sur **Gérer**. Une nouvelle fenêtre apparaîtra.
+:::info
+<a href="https://restake.app/fetchhub/fetchvaloper1jfxur0jse6u2h5qywhhdtnee3z4zd5cxgz2m5d" target="_blank" rel="noopener noreferrer">restake.app</a> permet egalement de faire l'opération simplement.
+:::
 
-3. Cliquez sur **Déléguer** et saisissez le montant que vous souhaitez déléguer. Confirmez en cliquant à nouveau sur **Déléguer**.
 
-   🚨 Gardez toujours quelques tokens pour payer les frais. Ne stakez jamais la totalité de votre wallet. Sans argent pour les frais, vous ne pouvez pas effectuer de transactions !
+🚨 Gardez toujours quelques tokens pour payer les frais. Ne stakez jamais la totalité de votre wallet. Sans argent pour les frais, vous ne pouvez pas effectuer de transactions !
 
 🎉 Félicitations, vous venez de déléguer des FET !
 

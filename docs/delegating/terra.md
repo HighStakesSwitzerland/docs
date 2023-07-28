@@ -24,17 +24,9 @@
 
 ## 🏁 How to Stake
 
-1. Open Terra Station Desktop and click **Staking**.
+Open the web version of <a href="https://wallet.keplr.app/chains/terra?modal=validator&chain=phoenix-1&validator_address=terravaloper1pgyelqv0hwjavgf6vhdm4e4pt766wfxxczu20l" target="_blank" rel="noopener noreferrer">Keplr wallet</a>, and click on the **Stake** button. Nothing more !
 
-2. Search for High Stakes in the field and click on the name in the **Moniker** column of the validator list.
-
-3. In the **My delegations** section, click **Delegate**. A new window will appear.
-
-4. In the **Amount** field, specify the amount of Luna you want to delegate, and click **Next**.
-
-   🚨 Always keep some coins to pay fees with. Never stake your entire wallet amount. Without money for fees, you can’t make any transactions!
-
-5. Double check the amounts and fees. Enter your password and click **Delegate**.
+🚨 Always keep some coins to pay fees with. Never stake your entire wallet amount. Without money for fees, you can’t make any transactions!
 
 🎉 Congratulations, you’ve just delegated Luna!
 

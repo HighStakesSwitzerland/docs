@@ -26,14 +26,13 @@ Desmos is supported by multiple wallets, including <a href="https://wallet.keplr
 
 ## 🏁 How to Stake
 
+Open the <a href="https://ping.pub/desmos/staking/desmosvaloper1mxt66nphve6pgkcwvjqmvjg9f7w569f5e500k4" target="_blank" rel="noopener noreferrer">Ping.pub</a> webapp, connect your wallet and click on the **Delegate** button.
 
-1. Open the <a href="https://wallet.keplr.app/chains/desmos" target="_blank" rel="noopener noreferrer">Keplr app</a>, select the chain and click on the **Stake** button.
+:::info
+<a href="https://restake.app/desmos/desmosvaloper1mxt66nphve6pgkcwvjqmvjg9f7w569f5e500k4" target="_blank" rel="noopener noreferrer">restake.app</a> also provides the functionality.
+:::
 
-2. Search for **High Stakes** in the list of validators and click on **Manage**. A new window will appear.
-
-3. Click on **Delegate** and enter the amount you want to delegate. Confirm by clicking on **Delegate** again.
-
-   🚨 Always keep some coins to pay fees with. Never stake your entire wallet amount. Without money for fees, you can’t make any transactions!
+🚨 Always keep some coins to pay fees with. Never stake your entire wallet amount. Without money for fees, you can’t make any transactions!
 
 🎉 Congratulations, you’ve just delegated DSM!
 

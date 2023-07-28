@@ -24,13 +24,9 @@ Cosmos Hub est pris en charge par plusieurs wallets, dont <a href="https://walle
 
 ## 🏁 Comment staker
 
-1. Ouvrez l'application <a href="https://wallet.keplr.app/chains/cosmos-hub" target="_blank" rel="noopener noreferrer">Keplr</a>, sélectionnez la chaîne et cliquez sur le bouton **Stake**.
+Ouvrez la page web de <a href="https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper1yh089p0cre4nhpdqw35uzde5amg3qzexkeggdn" target="_blank" rel="noopener noreferrer">Keplr Wallet</a>, et cliquez sur le bouton **Stake**. Rien de plus à faire!
 
-2. Recherchez **High Stakes** dans la liste des validateurs et cliquez sur **Gérer**. Une nouvelle fenêtre apparaîtra.
-
-3. Cliquez sur **Déléguer** et saisissez le montant que vous souhaitez déléguer. Confirmez en cliquant à nouveau sur **Déléguer**.
-
-   🚨 Gardez toujours quelques tokens pour payer les frais. Ne stakez jamais la totalité de votre wallet. Sans argent pour les frais, vous ne pouvez pas effectuer de transactions !
+🚨 Gardez toujours quelques tokens pour payer les frais. Ne stakez jamais la totalité de votre wallet. Sans argent pour les frais, vous ne pouvez pas effectuer de transactions !
 
 🎉 Félicitations, vous venez de déléguer des ATOM !
 
