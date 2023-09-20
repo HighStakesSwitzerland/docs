@@ -31,6 +31,8 @@ Chaque jour, les points IBEX gagnés seront calculés et attribués ; leur monta
 
 Lorsque les participants échangent leurs points IBEX, la quantité correspondante d'ATOM est transférée vers le wallet Cosmos associé à leur compte.
 
+**Note importante**: les points IBEX ont une "durée de vie" de 60 jours, c'est-à-dire que si un participant n'échange pas les points obtenus plus de 60 jours auparavant, il les perd. Cette règle ne s'applique que lorsque plus de 500 IBEX sont disponibles dans un compte utilisateur. <u>En-dessous de ce montant, il n'y a aucune date d'expiration</u>. En conséquence, les utilisateurs doivent s'assurer d'échanger leurs IBEX contre des ATOM au moins tous les 2 mois.
+
 ## Prise en charge de plusieurs wallets
 
 Pour des raisons de sécurité, la plupart d'entre nous ont différents wallet et seed phrases pour nos différentes cryptos.
