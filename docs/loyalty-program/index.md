@@ -17,7 +17,7 @@ This fund, which is held in ATOM and staked on our Cosmos validator, generates s
 
 :::tip
 - Users earn IBEX loyalty points that are accrued each day, and can redeem them against ATOM as soon as they hold 250 IBEX.
-- The current conversion rate is 1000 IBEX = 1 ATOM.
+- The current conversion rate is 1000 IBEX = 1 ATOM. 
 :::
 
 ## How it works
@@ -30,6 +30,8 @@ All delegators can register, however, they can start earning IBEX points only if
 Each day, the IBEX points earned will be calculated and allocated; their amount will vary based on the changes in the user's delegations, exchange rates, and other participants. A quadratic function is used to ensure that "whales" do not earn a disproportionate amount of the daily available IBEX.
 
 When participants redeem their IBEX points, the corresponding ATOM amount is transferred to the Cosmos wallet associated with their account.
+
+**Important note**: IBEX points have a "shelf life" of 60 days, which means that if a user does not redeem points awarded more than 60 days ago, he loses them. This rule applies only when there are more than 500 IBEX available for redeem in a user account. <u>Below this amount, they will never expire</u>. Therefore, users should ensure that they redeem their IBEX at least every 2 months.
 
 ## Multiple wallets support
 
