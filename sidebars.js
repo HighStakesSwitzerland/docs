@@ -34,6 +34,7 @@ module.exports = {
                         'loyalty-program/register',
                         'loyalty-program/link',
                         'loyalty-program/redeem',
+                        'loyalty-program/mobile-support',
                     ]
                 },
             ],
