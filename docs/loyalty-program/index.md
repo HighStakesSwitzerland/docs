@@ -11,9 +11,9 @@ slug: /loyalty-program/
 
 ## The IBEX Program
 
-With the IBEX Program, <a href="https://highstakes.ch">High Stakes</a>' delegators have an opportunity to boost their staking rewards by earning a share of the yield of our validators (over all chains), plus the yield of a Staking Fund that belongs to the company.
+With the IBEX Program, <a href="https://highstakes.ch">High Stakes</a>' delegators have an opportunity to boost their staking rewards by earning a share of the yield of our validators (over all chains).
 
-This fund, which is held in ATOM and staked on our Cosmos validator, generates staking rewards that are withdrawn and distributed to the registered users, prorated to the overall USD value of the tokens they stake on any of the eligible validators operated by High Stakes.
+This amount is distributed to the registered users, prorated to the overall USD value of the tokens they stake on any of the eligible validators operated by High Stakes.
 
 :::tip
 - Users earn IBEX loyalty points that are accrued each day, and can redeem them against ATOM as soon as they hold 250 IBEX.
