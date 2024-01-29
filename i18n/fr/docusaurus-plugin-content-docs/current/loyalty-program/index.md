@@ -11,12 +11,12 @@ slug: /loyalty-program/
 
 ## Le programme IBEX
 
-Avec le programme IBEX, les stakers de <a href="https://highstakes.ch">High Stakes</a> ont l'opportunité d'augmenter leurs récompenses de staking en gagnant une part du rendement des staling rewards de nos validateurs (toutes chaines confondues), plus les rendements d'un Staking Fund appartenant à l'entreprise.
+Avec le programme IBEX, les stakers de <a href="https://highstakes.ch">High Stakes</a> ont l'opportunité d'augmenter leurs récompenses de staking en gagnant une part du revenu généré par nos validateurs (toutes chaines confondues).
 
-Ce fonds, détenu en ATOM et staké sur notre validateur Cosmos, génère des rewards qui sont distribuées aux utilisateurs enregistrés, proportionnellement à la valeur globale en USD des tokens qu'ils stakent sur l'un des validateurs éligibles opéré par High Stakes 🇨🇭.
+Ce montant est distribué aux utilisateurs enregistrés proportionnellement à la valeur globale en USD des tokens qu'ils stakent sur les validateurs éligibles de High Stakes 🇨🇭.
 
 :::tip
-- Les utilisateurs accumulent des points de fidélité IBEX qui sont crédités chaque jour et peuvent les échanger contre des ATOM dès qu'ils en possèdent 250 IBEX.
+- Les utilisateurs accumulent des points de fidélité IBEX qui sont crédités chaque jour et peuvent les échanger contre des ATOM dès qu'ils possèdent 250 IBEX.
 - Le taux de conversion actuel est de 1000 IBEX = 1 ATOM.
 :::
 
