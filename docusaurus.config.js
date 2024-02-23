@@ -60,7 +60,7 @@ const config = {
             {
               type: 'html',
               value:
-                  '<a class="navbar__brand" href="/"><div class="navbar__logo"><img src="/img/hss-logo.png" alt="High Stakes Switzerland Logo"></div>High Stakes<span>Docs<span></a>'
+                  '<a class="navbar__brand" href="/"><div class="navbar__logo"><img src="/img/hss-logo.png" alt="High Stakes Switzerland Logo"></div>High Stakes 🇨🇭 Docs</a>'
             },
             {
               href: 'https://github.com/HighStakesSwitzerland/',
@@ -83,6 +83,10 @@ const config = {
                 {
                   label: 'Loyalty Program',
                   to: '/loyalty-program/'
+                },
+                {
+                  label: 'Stellee',
+                  to: '/stellee/'
                 },
                 {
                   label: 'Staking Guides',
