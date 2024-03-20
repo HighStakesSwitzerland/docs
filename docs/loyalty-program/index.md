@@ -16,7 +16,9 @@ With the IBEX Program, <a href="https://highstakes.ch">High Stakes</a>' delegato
 This amount is distributed to the registered users, prorated to the overall USD value of the tokens they stake on any of the eligible validators operated by High Stakes.
 
 :::tip
-- Users earn IBEX loyalty points that are accrued each day, and can redeem them against ATOM as soon as they hold 250 IBEX.
+- Users earn IBEX loyalty points that are accrued each day, and can redeem them against ATOM with 2 use cases :
+  - If they hold at least 250 IBEX, the redeem is immediate.
+  - If they hold at least 50 IBEX, the redeem is asynchronous and the corresponding ATOMs will be sent along other redeem operations in a multisend transaction as soon as their total reaches 250 IBEX.
 - The current conversion rate is 1000 IBEX = 1 ATOM. 
 :::
 
