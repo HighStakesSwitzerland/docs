@@ -58,11 +58,3 @@ Head to the appropriate <a href="/loyalty-program/link/">section</a> to learn ho
 Each year in December, a variable amount of ATOMs will be distributed to all the participants, prorated to the IBEX points they earned over the past year, and the number of days they delegated to High Stakes.
 
 The allocated amount of ATOMs will depend on the overall financial results of the company and global market trends, but we will ensure that those who have been loyal to us receive a reward that matches our gratefulness.
-
-## The initial airdrop
-
-We have taken snapshots of our delegators over the past months, and will allocate an initial amount of IBEX points to all the participants that register when the program launches, in proportion to the USD value of their delegations and the time they have been staking with us.
-
-:::info
-This airdrop will be calculated in a few weeks, once enough users have registered. Stay tuned!
-:::
