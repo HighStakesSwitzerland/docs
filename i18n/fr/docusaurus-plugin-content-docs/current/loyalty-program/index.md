@@ -57,10 +57,3 @@ Chaque année en décembre, une quantité variable d'ATOMs sera distribuée à t
 
 Le montant alloué d'ATOMs dépendra des résultats financiers globaux de l'entreprise et des tendances du marché, mais nous veillerons à ce que ceux qui nous ont été fidèles reçoivent une récompense qui témoigne de notre gratitude.
 
-## La distribution initiale de tokens
-
-Nous avons pris des snapshots de nos stakers au cours des derniers mois et allouerons une quantité initiale de points IBEX à tous les participants qui s'inscrivent lors du lancement du programme, proportionnellement à la valeur en USD de leurs délégations et à la durée pendant laquelle ils ont staké avec nous.
-
-:::info
-Cette distribution de tokens à été calculée en Mai. Il est possible de "claim" cet airdrop jusqu'au 1er Juillet 2023.
-:::
