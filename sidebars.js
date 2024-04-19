@@ -30,6 +30,7 @@ module.exports = {
         'loyalty-program/link',
         'loyalty-program/redeem',
         'loyalty-program/mobile-support',
+        'loyalty-program/referral'
       ],
     },
     {
