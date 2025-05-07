@@ -9,7 +9,12 @@ import androidApp from './img/Google_Play.png';
 :::info Requirements
 * Stellee mobile app
 
-<img src={appleApp} href="https://apps.apple.com/fr/app/stellee/id6474763944" width="135"></img> <img src={androidApp} href="https://play.google.com/store/apps/details?id=com.digitalfit.stellee" width="150"></img>
+<a href="https://apps.apple.com/fr/app/myapp/id6474763944" target="_blank" rel="noopener noreferrer">
+  <img src={appleApp} width="135" />
+</a>
+<a href="https://play.google.com/store/apps/details?id=com.digitalfit.stellee" target="_blank" rel="noopener noreferrer">
+  <img src={androidApp} width="150" />
+</a>
 :::
 
 ## Stellee Notifications
