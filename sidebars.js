@@ -47,8 +47,7 @@ module.exports = {
       },
       items: [
         'stellee/index',
-        'stellee/public-channels',
-        'stellee/private-channels'
+        'stellee/usage'
       ],
     },
     {
