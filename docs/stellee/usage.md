@@ -1,0 +1,54 @@
+import step_1 from './img/step_1.png';
+import step_3 from './img/step_2.png';
+import step_3 from './img/step_3.png';
+import step_4 from './img/step_4.png';
+import step_5 from './img/step_5.png';
+import step_6 from './img/step_6.png';
+import step_7 from './img/step_7.png';
+
+Once you have installed the app on your device, you can start subscribing to public channels and setting up your private alerts.
+
+## Public channels
+
+The public subscriptions can be done on the [official website](https://stellee.highstakes.ch/get-started#channels), by scanning the relevant QR codes directly in Stellee. No extra steps are required.
+The "News" channels relay the annoucements posted by the teams in their official Discord group, and the "Governance" ones monitor the on-chain proposals so that you don't miss an important vote. 
+
+## Private messages
+
+At this time, you can get private notifications (i.e. related to a specific wallet) only if you own the wallet. This restriction will be lifted by the end of the summer.
+
+To set up these notifications, you must head to the [High Stakes dashboard](https://app.highstakes.ch/notifications) from a desktop browser with a wallet installed (Keplr, Leap...), and follow the below steps:
+
+#### 1. Connect your wallet
+
+<img src={step_1}></img>
+
+#### 2. If it is your first visit to this dashboard, your wallet will prompt you to accept the connection to Cosmos
+
+<img src={step_2}></img>
+
+#### 3. You can already subscribe to the public channels for the supported chains
+
+<img src={step_3}></img>
+
+#### 4. Now you can set up the private notifications
+👨‍🏫 In this example, Axone is not yet natively supported by the wallets. If you didn't add it manually yet, the interface will request to do so -- click on **Approve**
+
+<img src={step_4}></img>
+
+#### 5. Select the events you would like to be informed about
+💡 To select all the events from a category at once, click on the title : "Account Activity", "Validator Events"
+
+<img src={step_5}></img>
+
+#### 6. Click on "Subscribe" and approve the wallet prompt
+🥷🏽 This proves that this wallet belongs to you -- as mentioned above, this restriction will be lifted soon.
+
+<img src={step_6}></img>
+
+#### 7. Finally, scan the QR code from Stellee on your mobile device
+(the "Scan code" button in Stellee's bottom bar)
+
+<img src={step_7}></img>
+
+
