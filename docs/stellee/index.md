@@ -59,4 +59,4 @@ Everything is done **web3-style**, without compromising your privacy.
 
 ## Next Steps
 
-👉 Head to the [Usage Guide](./usage.md) to learn how to set up your first notifications — with step-by-step instructions and screenshots.  
+👉 Head to the [Usage Guide](./usage.mdx) to learn how to set up your first notifications — with step-by-step instructions and screenshots.  
