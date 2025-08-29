@@ -59,4 +59,4 @@ Tout fonctionne **à la manière web3**, sans compromis sur votre vie privée.
 
 ## Prochaines étapes
 
-👉 Consultez le [Guide d’utilisation](./usage.md) pour apprendre à configurer vos premières notifications — avec explications et captures d’écran.  
+👉 Consultez le [Guide d’utilisation](./usage.mdx) pour apprendre à configurer vos premières notifications — avec explications et captures d’écran.  
