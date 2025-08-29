@@ -4,10 +4,10 @@ slug: /stellee/
 import appleApp from './img/Apple_Store.png';
 import androidApp from './img/Google_Play.png';
 
-# Introduction
+# Welcome to Stellee 🚀
 
 :::info Requirements
-* Stellee mobile app
+Download the **Stellee** mobile app:
 
 <a href="https://apps.apple.com/fr/app/myapp/id6474763944" target="_blank" rel="noopener noreferrer">
   <img src={appleApp} width="135" />
@@ -17,18 +17,46 @@ import androidApp from './img/Google_Play.png';
 </a>
 :::
 
-## Stellee Notifications
+---
 
-Stellee is a mobile app developed by High Stakes and DigitalFit that provides real-time notifications about a variety of on-chain events and news.
-Its engineering stems from an observation that all crypto holders have made: it is difficult to keep up with all the projects that we are following, and of all the assets that we possess.
-Joining many Telegram and Discord groups, subscribing to newsletters, following accounts on X, only leads to drowning in dozens of notifications that are mostly irrelevant to the point of missing the important ones.
+## What is Stellee?
 
-Stellee allows one to select what he wishes to be informed of, centralizing all the notifications in a single place and ensuring that no essential information is ever missed again. 
+Stellee is a mobile app by **High Stakes** and **DigitalFit** that delivers **real-time notifications** for on-chain events and project updates.
 
-Users can subscribe to **public channels** : for example news & announcements shared by teams and foundations, or chain governance to be informed when a proposal enters the voting period.
+If you’ve ever struggled to keep track of multiple projects, assets, and governance processes — drowning in Telegram, Discord, and endless emails — Stellee is designed for you.
 
-They can also subscribe to **private alerts** which are related to the activity on specific wallets : tokens sent or received, IBC transfer executed, validator changing their commission or being jailed, etc.
+With Stellee, **you decide what matters** and receive alerts in one clean, focused inbox.
 
-A key element is that none of the susbcriptions ever requires providing any personal information like email address, phone number or any kind of id. Subscriptions are done in an absolutely anonymous way, web3-style.
+---
 
-Let's explore its features!
+## Types of Notifications
+
+### 🔔 Public Channels  
+Subscribe to official updates like:  
+- Team announcements  
+- Governance proposals (when a proposal enters voting period)  
+
+### 🔒 Private Alerts  
+Stay on top of what’s happening with your wallets and validators:  
+- Incoming/outgoing token transfers  
+- IBC transfers  
+- Validator commission changes  
+- Validator jail/unbonding events
+- Validator votes  
+
+---
+
+## Privacy by Design
+
+Your subscriptions are **completely anonymous**:  
+- No email required  
+- No phone number  
+- No identity checks  
+
+Everything is done **web3-style**, without compromising your privacy.
+
+---
+
+## Next Steps
+
+👉 Head to the [Usage Guide](./usage.md) to learn how to set up your first notifications — with step-by-step instructions and screenshots.  
