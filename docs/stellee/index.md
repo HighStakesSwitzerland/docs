@@ -23,7 +23,7 @@ Download the **Stellee** mobile app:
 
 Stellee is a mobile app by **High Stakes** and **DigitalFit** that delivers **real-time notifications** for on-chain events and project updates.
 
-If you’ve ever struggled to keep track of multiple projects, assets, and governance processes — drowning in Telegram, Discord, and endless emails — Stellee is designed for you.
+If you’ve ever struggled to keep track of multiple projects, assets, and governance processes — drowning in Telegram and Discord message, X posts and email newsletters: Stellee is designed for you.
 
 With Stellee, **you decide what matters** and receive alerts in one clean, focused inbox.
 
