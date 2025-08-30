@@ -47,6 +47,13 @@ const config = {
       }
     ],
   ],
+/**open links in a new tab by default*/
+    markdown: {
+    externalLinks: {
+      target: '_blank',
+      rel: ['noopener', 'noreferrer'],
+    },
+  },
 
   themeConfig:
   /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
