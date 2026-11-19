@@ -50,8 +50,7 @@ module.exports = {
       },
       items: [
         'stellee/index',
-        'stellee/public-channels',
-        'stellee/private-channels'
+        'stellee/usage'
       ],
     },
     {
@@ -74,10 +73,8 @@ module.exports = {
         'delegating/persistence',
         'delegating/provenance',
         'delegating/band',
-        'delegating/desmos',
         'delegating/fetch',
         'delegating/iris',
-        'delegating/migaloo',
         /*
       'delegating/shentu',
       'delegating/teritori',
