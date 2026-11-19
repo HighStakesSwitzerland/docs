@@ -45,7 +45,7 @@ In case of prolonged downtime, the slashing amount is 0.01% once. In case of dou
 :::
 
 :::info How does Migaloo service fee work?
-The protocol automatically pays a commission to all active validators participating in the minting of new blocks. It is a percentage on all rewards earned related to the st
+The protocol automatically pays a commission to all active validators participating in the minting of new blocks. It is a percentage on all rewards earned related to the staking power of each validator.
 :::
 
 :::info Can I vote on governance proposals?

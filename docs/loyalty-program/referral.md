@@ -1,15 +1,19 @@
-
 # Referral Program
-The referral program gives you the opportunity to earn extra $IBEX by onboarding new users.
 
-## How it works
-- You will be attributed a unique code that you can provide to new users.
-- Upon registering to the IBEX Loyalty Program, these users can submit this code.
-- The referral will activate as soon as they have staked at least $500 worth of tokens across our eligible nodes and can therefore start earning $IBEX points. At this point:
-  - The referree will have a 10% bonus on his daily IBEX during 30 days
-  - The referrer will get 10% of the user's IBEX for 30 days, then 5% for 30 additional days, then 1% of the total daily IBEX earned by his referrees, forever.   
+The **High Stakes Referral Program** gives affiliates and community builders the opportunity to earn extra **$IBEX** by onboarding new delegators to the platform.
 
-## Existing users: How to get your referral code
+## How It Works
 
-- Contact us directly.
-- Be advised however that this program is meant for large affiliates that will build and develop their community of users. If you intend to bring only a handful of users, your long-term benefits will likely be very low unless these users are "whales".
+1. **Unique Referral Code**: Approved affiliates receive a unique referral code (up to 10 characters) that can be shared directly or embedded in a registration link (`https://app.highstakes.ch/dashboard?referralCode=YOURCODE`).
+2. **Submitting the Code at Registration**: When registering for the IBEX Loyalty Program in the **Register your wallet** modal on <a href="https://app.highstakes.ch" target="_blank">app.highstakes.ch</a>, new users enter the code in the **Got a referral code?** field (or open the `?referralCode=` URL so it is pre-filled automatically).
+3. **Activation Threshold ($500 USD)**: The referral activates automatically as soon as the referred user stakes at least **$500 USD** worth of tokens across our IBEX-eligible validators and begins earning daily IBEX points:
+   - **Referee Bonus (`AFFILIATED`)**: The referred user receives a **+10% bonus** on their daily IBEX earnings for **30 days**.
+   - **Referrer Rewards (`REFERRER`)**: The referrer earns:
+     - **10%** of the referee's daily IBEX for the first **30 days**,
+     - **5%** of the referee's daily IBEX for the following **30 days**,
+     - **1%** of the total daily IBEX earned by their referees, **forever**.
+
+## Existing Users: How to Get Your Referral Code
+
+- Contact the High Stakes team directly via [Discord](https://discord.gg/Rw4YswvKVa), [Telegram](https://t.me/HighStakesSwitzerland), or [email](mailto:contact@highstakes.ch).
+- Please note that referral codes are intended for affiliates and community leaders who actively onboard and support a community of delegators. If you plan to refer only a few small accounts, long-term referral rewards will remain modest unless those delegators stake substantial amounts.

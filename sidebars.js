@@ -9,7 +9,10 @@ module.exports = {
       label: 'Introduction',
       className: 'menu_outer_list',
       collapsible: false,
-      items: [{ type: 'doc', id: 'index', label: 'About' }],
+      items: [
+        { type: 'doc', id: 'index', label: 'About' },
+        { type: 'doc', id: 'autocompound', label: 'REStake Auto-Compounding' },
+      ],
     },
     {
       type: 'category',

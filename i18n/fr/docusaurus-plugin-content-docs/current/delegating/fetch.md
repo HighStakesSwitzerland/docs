@@ -26,11 +26,8 @@ Fetch.AI est pris en charge par plusieurs wallets, dont <a href="https://wallet.
 
 ## 🏁 Comment staker
 
-Ouvrez l'application <a href="https://ping.pub/fetchhub/staking/fetchvaloper1jfxur0jse6u2h5qywhhdtnee3z4zd5cxgz2m5d" target="_blank" rel="noopener noreferrer">Ping.pub</a>, connectez votre wallet et cliquez sur le bouton **Delegate**.
-
-:::info
-<a href="https://restake.app/fetchhub/fetchvaloper1jfxur0jse6u2h5qywhhdtnee3z4zd5cxgz2m5d" target="_blank" rel="noopener noreferrer">restake.app</a> permet egalement de faire l'opération simplement.
-:::
+1. **Directement sur l'application High Stakes (Recommandé)** : Rendez-vous sur <a href="https://app.highstakes.ch" target="_blank" rel="noopener noreferrer">app.highstakes.ch</a>, connectez votre wallet, cliquez sur **Déléguer sur Fetch.ai** sur la carte Fetch.ai (ou ouvrez l'onglet **Portfolio**), saisissez le montant souhaité et confirmez la transaction.
+2. **Via Ping.pub ou REStake** : Vous pouvez également déléguer via <a href="https://ping.pub/fetchhub/staking/fetchvaloper1jfxur0jse6u2h5qywhhdtnee3z4zd5cxgz2m5d" target="_blank" rel="noopener noreferrer">Ping.pub</a> ou activer l'auto-compounding sur <a href="https://restake.highstakes.ch" target="_blank" rel="noopener noreferrer">restake.highstakes.ch</a>.
 
 
 🚨 Gardez toujours quelques tokens pour payer les frais. Ne stakez jamais la totalité de votre wallet. Sans argent pour les frais, vous ne pouvez pas effectuer de transactions !

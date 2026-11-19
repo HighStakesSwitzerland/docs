@@ -1,54 +1,44 @@
-# Support Mobile
+# Support Mobile & Portefeuilles Alternatifs
 
-## Exigences
-:::info
-* Nous supportons actuellement uniquement les wallets sur Android et iPhone <a href="https://www.keplr.app/download">Keplr</a> ou <a href="https://www.leapwallet.io/download">Leap</a>.
-* Le site IBEX doit être ouvert depuis l'application Keplr ou Leap elle-même, dans le navigateur intégré. Il vous suffit de taper l'URL https://app.highstakes.ch
+`app.highstakes.ch` dispose d'une interface mobile responsive dotée d'une barre de navigation inférieure dédiée (**Dashboard**, **Portfolio**, **Rewards**, **Swap**) et propose plusieurs méthodes de connexion sur mobile et ordinateur.
+
+## Méthodes de connexion sur mobile
+
+:::info Parcours mobiles supportés
+1. **Portefeuille mobile (WalletConnect / Reown)** : Ouvrez <a href="https://app.highstakes.ch" target="_blank">https://app.highstakes.ch</a> dans votre navigateur mobile (Safari, Chrome, Brave) ou sur ordinateur, appuyez sur **Connexion** (`Connect`) puis choisissez **Portefeuille mobile** (`Mobile Wallet`) pour vous connecter par lien profond ou QR code WalletConnect v2 / Reown.
+2. **Navigateur intégré de Keplr Mobile** : Ouvrez <a href="https://app.highstakes.ch" target="_blank">https://app.highstakes.ch</a> directement depuis le navigateur intégré de l'application <a href="https://www.keplr.app/download" target="_blank">Keplr Mobile</a> et sélectionnez **Keplr Wallet**.
+3. **Connexion via Réseau Social (Web3Auth)** : Appuyez sur **Connexion** -> **Connexion via Réseau Social** (`Connect with Social Account`) pour vous connecter avec un compte social depuis n'importe quel appareil.
 :::
 
-## Keplr Mobile
+## Option 1 : Utiliser le navigateur intégré de Keplr Mobile
 
-![Logo mobile Keplr](https://docs.keplr.app/Keplr_Black.png)
+![Logo Keplr Mobile](https://docs.keplr.app/Keplr_Black.png)
 
-- Depuis l'application Keplr, sélectionnez le wallet que vous souhaitez utiliser
+1. Dans l'application **Keplr Mobile**, sélectionnez le portefeuille que vous souhaitez utiliser :
 
-![Choisir le portefeuille](img/mobile/choose_wallet.webp)
+![Choix du Wallet](img/mobile/choose_wallet.webp)
 
-- Dans l'onglet Navigateur, saisissez l'URL https://app.highstakes.ch
+2. Ouvrez l'onglet **Navigateur** (icône globe) en bas de l'application, saisissez l'URL `https://app.highstakes.ch` et validez :
 
-![Saisir l'adresse](img/mobile/enter_url.webp)
+![Saisie de l'adresse](img/mobile/enter_url.webp)
 
-- Appuyez sur le bouton Connect et acceptez les multiples demandes d'accès de Keplr
+3. Appuyez sur le bouton **Connexion** (`Connect`) en haut à droite, sélectionnez **Keplr Wallet** (ou **Portefeuille mobile**) et acceptez la demande d'accès :
 
-![Connecter](img/mobile/connect.webp)
-![Saisir l'adresse](img/mobile/request_cnx.webp)
+![Fenêtre de connexion sur mobile](img/mobile/connect.webp)
+![Approbation de la demande de connexion](img/mobile/request_cnx.webp)
 
-- C'est tout ! N'oubliez pas de mettre la page en favori pour un accès plus facile !
+4. Vous êtes connecté ! Utilisez la barre de navigation en bas de l'écran pour naviguer entre **Dashboard**, **Portfolio**, **Rewards** et **Swap**, et ajoutez la page à vos favoris pour un accès rapide :
 
-![Connecter](img/mobile/connected.webp)
+![Tableau de bord connecté sur mobile](img/mobile/connected.webp)
 
-:::tip Pour lier plusieurs wallets
-Commencez le processus en utilisant le lien "link" en haut de la page Dashboard, puis changez de wallet dans Keplr en utilisant les boutons du footer. Revenez à l'écran du navigateur pour signer avec le deuxième portefeuille.
-:::
+## Option 2 : Connexion via Portefeuille mobile (WalletConnect / Reown)
 
-## Leap Mobile
+Si vous préférez utiliser le navigateur web standard de votre smartphone (ou connecter votre portefeuille mobile à une session sur ordinateur) :
 
-![Logo mobile Leap](https://leapwallet.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe3acd2b8-aad7-4dc5-8451-dd52330cb224%2FPrimary_Logo___Horizontal.svg?id=4b89796f-017b-4288-8e12-cec3685f5ffb&table=block&spaceId=a70bb59b-fedd-4ccb-8957-60cfa475c413&userId=&cache=v2)
+1. Rendez-vous sur <a href="https://app.highstakes.ch" target="_blank">https://app.highstakes.ch</a> et appuyez sur **Connexion** (`Connect`).
+2. Sélectionnez **Portefeuille mobile** (`Mobile Wallet`) en haut de la fenêtre de connexion.
+3. Sur smartphone, ouvrez votre application de portefeuille via le lien direct ; sur ordinateur, scannez le QR code affiché depuis votre application mobile et approuvez la connexion.
 
-- Dans l'onglet Navigateur, saisissez l'URL https://app.highstakes.ch
-
-![Saisir l'adresse](img/mobile/leap_enter_url.webp)
-
-- Appuyez sur le bouton Connect et acceptez la demande d'accès de Leap
-
-![Connecter](img/mobile/leap_connect.webp)
-![Accepter les demandes](img/mobile/leap_request_cnx.webp)
-
-- C'est tout ! N'oubliez pas de mettre la page en favori pour un accès plus facile !
-
-![Connecter](img/mobile/leap_connected.webp)
-
-:::caution Pour lier plusieurs portefeuilles
-Leap Wallet ne permet pas de changer de wallet sans quitter complètement la vue du navigateur. Il n'est donc pas possible de lier des comptes.
-Veuillez utiliser Keplr ou un ordinateur pour effectuer cette étape (nécessaire qu'une seule fois).
+:::caution Liaison de plusieurs wallets sur mobile
+La liaison de deux portefeuilles Cosmos distincts nécessite de changer de compte en cours de session. Les connexions mobiles WalletConnect / Reown ne permettant pas de changer de compte à la volée sans interrompre la session, nous vous recommandons d'effectuer cette étape unique depuis l'**extension navigateur Keplr sur ordinateur** (ou depuis le navigateur intégré de **Keplr Mobile** en changeant de compte dans l'application avant de revenir sur l'onglet du navigateur).
 :::

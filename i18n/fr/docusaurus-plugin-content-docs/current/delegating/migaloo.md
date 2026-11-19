@@ -14,7 +14,7 @@ Migaloo soutient les projets de conservation des océans, soutient les entrepris
 | 📈 Paramètre                | 🎯 Valeur              |
 |-----------------------------|-----------------------|
 | 🎁 Récompense de staking (APR/APY)    | 12,42 % / 13,23 %       |
-| 💰 Commission               | 5 % dey récompense de staking |
+| 💰 Commission               | 5 % des récompenses de staking |
 | 🔒 Montant minimum à staker  | 1 WHALE                 |
 | ⏳ Période de déliaison          | 21 jours               |
 | ❌ Sanction pour inactivité     | 0,01 %                 |

@@ -26,7 +26,8 @@ Le Secret Network est pris en charge par plusieurs wallets, notamment <a href="h
 
 ## 🏁 Comment staker
 
-Ouvrez la page web de <a href="https://wallet.keplr.app/chains/secret-network?modal=validator&chain=secret-4&validator_address=secretvaloper1jgx4pn3acae9esq5zha5ym3kzhq6x60frjwkrp" target="_blank" rel="noopener noreferrer">Keplr Wallet</a>, et cliquez sur le bouton **Stake**. Rien de plus à faire!
+1. **Directement sur l'application High Stakes (Recommandé)** : Rendez-vous sur <a href="https://app.highstakes.ch" target="_blank" rel="noopener noreferrer">app.highstakes.ch</a>, connectez votre wallet, cliquez sur **Déléguer sur Secret Network** sur la carte Secret Network (ou ouvrez l'onglet **Portfolio**), saisissez le montant souhaité et confirmez la transaction. Vous pouvez également activer l'auto-compounding sur <a href="https://restake.highstakes.ch" target="_blank" rel="noopener noreferrer">restake.highstakes.ch</a>.
+2. **Via Keplr Dashboard** : Vous pouvez également ouvrir la page web de <a href="https://wallet.keplr.app/chains/secret-network?modal=validator&chain=secret-4&validator_address=secretvaloper1jgx4pn3acae9esq5zha5ym3kzhq6x60frjwkrp" target="_blank" rel="noopener noreferrer">Keplr Wallet</a> et cliquer sur le bouton **Stake**.
 
 🚨 Gardez toujours quelques tokens pour payer les frais. Ne stakez jamais la totalité de votre wallet. Sans argent pour les frais, vous ne pourrez effectuer aucune transaction !
 

@@ -26,11 +26,12 @@ Provenance est pris en charge par plusieurs wallets, dont <a href="https://walle
 
 ## 🏁 Comment staker
 
-Ouvrez la page <a href="https://ping.pub/provenance/staking/pbvaloper1wh4yc8q7jpxg5tlh94yafjeza7a6nlmd85jhre" target="_blank" rel="noopener noreferrer">Ping.pub</a>, connectez votre wallet et cliquez sur le bouton **Delegate**.
+1. **Directement sur l'application High Stakes (Recommandé)** : Rendez-vous sur <a href="https://app.highstakes.ch" target="_blank" rel="noopener noreferrer">app.highstakes.ch</a>, connectez votre wallet, cliquez sur **Activer** puis sur **Déléguer sur Provenance** sur la carte Provenance (ou ouvrez l'onglet **Portfolio**), saisissez le montant souhaité et confirmez la transaction.
+2. **Via Ping.pub** : Vous pouvez également ouvrir la page <a href="https://ping.pub/provenance/staking/pbvaloper1wh4yc8q7jpxg5tlh94yafjeza7a6nlmd85jhre" target="_blank" rel="noopener noreferrer">Ping.pub</a>, connecter votre wallet et cliquer sur le bouton **Delegate**.
 
 🚨 Gardez toujours quelques tokens pour payer les frais. Ne stakez jamais la totalité de votre wallet. Sans argent pour les frais, vous ne pourrez effectuer aucune transaction !
 
-🎉 Félicitations, vous venez de déléguer des PROV !
+🎉 Félicitations, vous venez de déléguer des HASH !
 
 ## ❓ FAQ
 

@@ -26,11 +26,8 @@ Band Protocol is supported by multiple wallets, including <a href="https://walle
 
 ## 🏁 How to Stake
 
-Open the webapp <a href="https://ping.pub/band/staking/bandvaloper1uytng9pl50mtedmsdrzanvy8vgxttvysw59ugd" target="_blank" rel="noopener noreferrer">Ping.pub</a>, connect your wallet and click **Delegate**.
-
-:::info
-<a href="https://restake.app/bandchain/bandvaloper1uytng9pl50mtedmsdrzanvy8vgxttvysw59ugd" target="_blank" rel="noopener noreferrer">restake.app</a> also provides the functionality.
-:::
+1. **Directly on the High Stakes App (Recommended)**: Open <a href="https://app.highstakes.ch" target="_blank" rel="noopener noreferrer">app.highstakes.ch</a>, connect your wallet, click **Stake Band Protocol** on the Band Protocol card (or open **Portfolio**), enter your amount, and confirm the transaction.
+2. **Via Ping.pub or REStake**: You can also delegate via <a href="https://ping.pub/band/staking/bandvaloper1uytng9pl50mtedmsdrzanvy8vgxttvysw59ugd" target="_blank" rel="noopener noreferrer">Ping.pub</a> or enable auto-compounding on <a href="https://restake.highstakes.ch" target="_blank" rel="noopener noreferrer">restake.highstakes.ch</a>.
 
 
 🚨 Always keep some coins to pay fees with. Never stake your entire wallet amount. Without money for fees, you can’t make any transactions!

@@ -24,13 +24,12 @@
 
 ## 🏁 Comment staker
 
-Ouvrez la page web de <a href="https://wallet.keplr.app/chains/terra?modal=validator&chain=phoenix-1&validator_address=terravaloper1pgyelqv0hwjavgf6vhdm4e4pt766wfxxczu20l" target="_blank" rel="noopener noreferrer">Keplr Wallet</a>, et cliquez sur le bouton **Stake**. Rien de plus à faire!
+1. **Directement sur l'application High Stakes (Recommandé)** : Rendez-vous sur <a href="https://app.highstakes.ch" target="_blank" rel="noopener noreferrer">app.highstakes.ch</a>, connectez votre wallet, cliquez sur **Déléguer sur Terra** sur la carte Terra (ou ouvrez l'onglet **Portfolio**), saisissez le montant souhaité et confirmez la transaction. Vous pouvez également activer l'auto-compounding sur <a href="https://restake.highstakes.ch" target="_blank" rel="noopener noreferrer">restake.highstakes.ch</a>.
+2. **Via Keplr Dashboard** : Vous pouvez également ouvrir la page web de <a href="https://wallet.keplr.app/chains/terra?modal=validator&chain=phoenix-1&validator_address=terravaloper1pgyelqv0hwjavgf6vhdm4e4pt766wfxxczu20l" target="_blank" rel="noopener noreferrer">Keplr Wallet</a> et cliquer sur le bouton **Stake**.
 
 🚨 Gardez toujours quelques tokens pour payer les frais. Ne stakez jamais la totalité de votre wallet. Sans argent pour les frais, vous ne pourrez effectuer aucune transaction !
 
-5. Vérifiez à nouveau les montants et les frais. Entrez votre mot de passe et cliquez sur **Delegate**.
-
-🎉 Félicitations, vous venez de déléguer des Luna !
+🎉 Félicitations, vous venez de déléguer des LUNA !
 
 ## ❓ FAQ
 
@@ -50,6 +49,6 @@ Le protocole paie automatiquement une commission à tous les validateurs actifs 
 :::
 
 :::info Puis-je voter sur les propositions de gouvernance ?
-Oui, tous les utilisateurs ayant des tokens stakés peuvent voter sur n'importe quelle proposition en utilisant le wallet Terran Station.
+Oui, tous les utilisateurs ayant des tokens stakés peuvent voter sur n'importe quelle proposition en utilisant le wallet Terra Station ou Keplr.
 Les validateurs peuvent voter au nom de leurs délégateurs, mais les votes des utilisateurs prévalent sur eux.
 :::

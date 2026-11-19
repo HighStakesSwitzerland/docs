@@ -24,7 +24,8 @@
 
 ## 🏁 How to Stake
 
-Open the web version of <a href="https://wallet.keplr.app/chains/terra?modal=validator&chain=phoenix-1&validator_address=terravaloper1pgyelqv0hwjavgf6vhdm4e4pt766wfxxczu20l" target="_blank" rel="noopener noreferrer">Keplr wallet</a>, and click on the **Stake** button. Nothing more !
+1. **Directly on the High Stakes App (Recommended)**: Open <a href="https://app.highstakes.ch" target="_blank" rel="noopener noreferrer">app.highstakes.ch</a>, connect your wallet, click **Stake Terra** on the Terra card (or open **Portfolio**), enter your amount, and confirm the transaction. You can also enable auto-compounding on <a href="https://restake.highstakes.ch" target="_blank" rel="noopener noreferrer">restake.highstakes.ch</a>.
+2. **Via Keplr Dashboard**: Alternatively, open the web version of <a href="https://wallet.keplr.app/chains/terra?modal=validator&chain=phoenix-1&validator_address=terravaloper1pgyelqv0hwjavgf6vhdm4e4pt766wfxxczu20l" target="_blank" rel="noopener noreferrer">Keplr wallet</a> and click on the **Stake** button.
 
 🚨 Always keep some coins to pay fees with. Never stake your entire wallet amount. Without money for fees, you can’t make any transactions!
 
@@ -48,6 +49,6 @@ The protocol automatically pays a commission to all active validators participat
 :::
 
 :::info Can I vote on governance proposals?
-Yes, all users with staked tokens can vote on any proposal using Terran Station wallet.
+Yes, all users with staked tokens can vote on any proposal using Terra Station or Keplr wallet.
 Validators are able to cast votes on behalf of their delegators, but it is overridden by the votes of the users.
 :::

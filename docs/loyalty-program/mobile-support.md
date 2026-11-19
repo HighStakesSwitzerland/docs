@@ -1,55 +1,44 @@
-# Mobile Support
+# Mobile & Alternative Wallet Support
 
-## Requirements
-:::info
-* We currently only support <a href="https://www.keplr.app/download">Keplr</a> or <a href="https://www.leapwallet.io/download">Leap</a> mobile wallets.
-* The IBEX app must be accessed from the mobile app itself, in the embedded browser. Just type the url https://app.highstakes.ch
+`app.highstakes.ch` features a responsive mobile layout with a dedicated bottom navigation bar (**Dashboard**, **Portfolio**, **Rewards**, **Swap**) and supports multiple ways to connect from mobile devices or alternative wallets.
+
+## Connection Options on Mobile
+
+:::info Supported Mobile Workflows
+1. **Mobile Wallet (WalletConnect / Reown)**: Open <a href="https://app.highstakes.ch" target="_blank">https://app.highstakes.ch</a> in your mobile browser (Safari, Chrome, Brave) or on desktop, tap **Connect**, and select **Mobile Wallet** to connect via WalletConnect v2 / Reown deep link or QR code.
+2. **Keplr Mobile In-App Browser**: Open <a href="https://app.highstakes.ch" target="_blank">https://app.highstakes.ch</a> directly inside the built-in browser of the <a href="https://www.keplr.app/download" target="_blank">Keplr Mobile</a> app and select **Keplr Wallet**.
+3. **Social Account (Web3Auth)**: Tap **Connect** -> **Connect with Social Account** to sign in with your social credentials from any device.
 :::
 
-## Keplr Mobile Wallet
+## Option 1: Using Keplr Mobile In-App Browser
 
 ![Keplr Mobile logo](https://docs.keplr.app/Keplr_Black.png)
 
-- From Keplr mobile app, select the wallet you want to use
+1. From the **Keplr Mobile** app, select the wallet account you want to use:
 
 ![Choose Wallet](img/mobile/choose_wallet.webp)
 
-- From the Browser tab, type the url https://app.highstakes.ch and hit enter
+2. Open the **Browser** tab at the bottom of the app, type `https://app.highstakes.ch`, and press Enter:
 
 ![Type the address](img/mobile/enter_url.webp)
 
-- Hit the Connect button and accept Keplr's access requests
+3. Tap the **Connect** button in the top-right header, choose **Keplr Wallet** (or **Mobile Wallet**), and approve the connection request:
 
-![Connect](img/mobile/connect.webp)
-![Type the address](img/mobile/request_cnx.webp)
+![Connect Wallet Modal on Mobile](img/mobile/connect.webp)
+![Approve Connection Request](img/mobile/request_cnx.webp)
 
-- That's it! Don't forget to bookmark the page for easier access!
+4. You are now connected! Use the bottom navigation bar to switch between **Dashboard**, **Portfolio**, **Rewards**, and **Swap**, and bookmark the page for quick access:
 
-![Connect](img/mobile/connected.webp)
+![Connected Mobile Dashboard](img/mobile/connected.webp)
 
-:::tip To link multiple wallets
-Start the process using the link on the top of the dashboard, switch wallets inside the app and go back to the browser screen to sign with the second wallet
-:::
+## Option 2: Connecting via Mobile Wallet (WalletConnect / Reown)
 
-## Leap Mobile Wallet
+If you prefer browsing in your phone's native browser (or connecting your mobile wallet to a desktop browser session):
 
-![Leap Wallet logo](https://leapwallet.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe3acd2b8-aad7-4dc5-8451-dd52330cb224%2FPrimary_Logo___Horizontal.svg?id=4b89796f-017b-4288-8e12-cec3685f5ffb&table=block&spaceId=a70bb59b-fedd-4ccb-8957-60cfa475c413&userId=&cache=v2)
+1. Navigate to <a href="https://app.highstakes.ch" target="_blank">https://app.highstakes.ch</a> and tap **Connect**.
+2. Tap **Mobile Wallet** at the top of the connection modal.
+3. On mobile, select your installed Cosmos wallet app via deep link; on desktop, scan the displayed QR code from your mobile wallet app and approve the session.
 
-
-- From the Browser tab, type the url https://app.highstakes.ch and hit enter
-
-![Type the address](img/mobile/leap_enter_url.webp)
-
-- Hit the Connect button and accept Leap's access request
-
-![Connect](img/mobile/leap_connect.webp)
-![Accept requests](img/mobile/leap_request_cnx.webp)
-
-- That's it! Don't forget to bookmark the page for easier access!
-
-![Connect](img/mobile/leap_connected.webp)
-
-:::caution To link multiple wallets
-Leap Wallet does not permit switching accounts without completely exiting the browser view. As such, it is not possible to link accounts.
-Please use Keplr or a PC to do this step (only needed once).
+:::caution Linking Multiple Wallets on Mobile
+Linking two separate Cosmos wallets requires switching accounts mid-session. Because WalletConnect / Reown mobile sessions do not allow hot-swapping accounts without disconnecting, multi-wallet linking should be performed once using the **Keplr desktop browser extension** (or inside the **Keplr Mobile** embedded browser by switching accounts in the app and returning to the browser tab).
 :::

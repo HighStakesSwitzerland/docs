@@ -25,13 +25,14 @@ Injective Hub prend actuellement en charge [Metamask](https://metamask.io/), [Ke
 
 ## 🏁 Comment staker
 
-1. Rendez-vous sur [https://hub.injective.network](https://hub.injective.network) et connectez le wallet web3 que vous utilisez pour stocker vos tokens INJ (ERC-20).
+### Option 1 : Directement sur l'application High Stakes (INJ natifs)
+Rendez-vous sur <a href="https://app.highstakes.ch" target="_blank" rel="noopener noreferrer">app.highstakes.ch</a>, connectez votre portefeuille (Keplr, Ledger via Keplr, MetaMask ou Portefeuille mobile), cliquez sur **Déléguer sur Injective** sur la carte Injective (ou ouvrez l'onglet **Portfolio**), saisissez le montant à déléguer et confirmez la transaction.
 
-2. Cliquez sur **wallet** dans la barre de menu supérieure pour ouvrir la page du wallet et transférez vos tokens INJ vers la chaîne Injective en utilisant le pont bidirectionnel ERC-20 entre Injective et Ethereum.
-
-3. Ouvrez la page [High Stakes Validators](https://hub.injective.network/validators/injvaloper1f2kdg34689x93cvw2y59z7y46dvz2fk8lhddfz).
-
-4. Saisissez le montant à staker, cliquez sur **Déléguer**, puis signez la transaction de délégation via MetaMask.
+### Option 2 : Via Injective Hub (y compris pont ERC-20)
+1. Rendez-vous sur [https://hub.injective.network](https://hub.injective.network) et connectez le wallet web3 que vous utilisez pour stocker vos tokens INJ.
+2. Si vos INJ sont au format ERC-20 sur Ethereum, cliquez sur **Wallet** dans la barre supérieure pour les transférer vers la chaîne Injective via le pont bidirectionnel.
+3. Ouvrez la page du validateur [High Stakes](https://hub.injective.network/validators/injvaloper1f2kdg34689x93cvw2y59z7y46dvz2fk8lhddfz).
+4. Saisissez le montant à staker, cliquez sur **Déléguer**, puis signez la transaction.
 
 🎉 Félicitations ! Vos tokens INJ sont maintenant stakés.
 

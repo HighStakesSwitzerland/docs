@@ -29,6 +29,6 @@ Users can subscribe to **public channels** : for example news & announcements sh
 
 They can also subscribe to **private alerts** which are related to the activity on specific wallets : tokens sent or received, IBC transfer executed, validator changing their commission or being jailed, etc.
 
-A key element is that none of the susbcriptions ever requires providing any personal information like email address, phone number or any kind of id. Subscriptions are done in an absolutely anonymous way, web3-style.
+A key element is that none of the subscriptions ever requires providing any personal information like email address, phone number or any kind of id. Subscriptions are done in an absolutely anonymous way, web3-style.
 
 Let's explore its features!

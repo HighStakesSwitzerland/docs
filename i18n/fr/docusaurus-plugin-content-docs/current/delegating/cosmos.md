@@ -24,7 +24,8 @@ Cosmos Hub est pris en charge par plusieurs wallets, dont <a href="https://walle
 
 ## 🏁 Comment staker
 
-Ouvrez la page web de <a href="https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper1yh089p0cre4nhpdqw35uzde5amg3qzexkeggdn" target="_blank" rel="noopener noreferrer">Keplr Wallet</a>, et cliquez sur le bouton **Stake**. Rien de plus à faire!
+1. **Directement sur l'application High Stakes (Recommandé)** : Rendez-vous sur <a href="https://app.highstakes.ch" target="_blank" rel="noopener noreferrer">app.highstakes.ch</a>, connectez votre wallet, cliquez sur **Déléguer sur Cosmos Hub** sur la carte Cosmos Hub (ou ouvrez l'onglet **Portfolio**), saisissez le montant souhaité et confirmez la transaction. Vous pouvez également activer l'auto-compounding 2x par jour sur <a href="https://restake.highstakes.ch" target="_blank" rel="noopener noreferrer">restake.highstakes.ch</a>.
+2. **Via Keplr Dashboard** : Vous pouvez également ouvrir la page web de <a href="https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper1yh089p0cre4nhpdqw35uzde5amg3qzexkeggdn" target="_blank" rel="noopener noreferrer">Keplr Wallet</a> et cliquer sur le bouton **Stake**.
 
 🚨 Gardez toujours quelques tokens pour payer les frais. Ne stakez jamais la totalité de votre wallet. Sans argent pour les frais, vous ne pouvez pas effectuer de transactions !
 

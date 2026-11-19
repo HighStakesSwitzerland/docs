@@ -26,7 +26,8 @@ Secret Network is supported by multiple wallets, including <a href="https://wall
 
 ## 🏁 How to Stake
 
-Open the web version of <a href="https://wallet.keplr.app/chains/secret-network?modal=validator&chain=secret-4&validator_address=secretvaloper1jgx4pn3acae9esq5zha5ym3kzhq6x60frjwkrp" target="_blank" rel="noopener noreferrer">Keplr wallet</a>, and click on the **Stake** button. Nothing more !
+1. **Directly on the High Stakes App (Recommended)**: Open <a href="https://app.highstakes.ch" target="_blank" rel="noopener noreferrer">app.highstakes.ch</a>, connect your wallet, click **Stake Secret Network** on the Secret Network card (or open **Portfolio**), enter your amount, and confirm the transaction. You can also enable auto-compounding on <a href="https://restake.highstakes.ch" target="_blank" rel="noopener noreferrer">restake.highstakes.ch</a>.
+2. **Via Keplr Dashboard**: Alternatively, open the web version of <a href="https://wallet.keplr.app/chains/secret-network?modal=validator&chain=secret-4&validator_address=secretvaloper1jgx4pn3acae9esq5zha5ym3kzhq6x60frjwkrp" target="_blank" rel="noopener noreferrer">Keplr wallet</a> and click on the **Stake** button.
 
 🚨 Always keep some coins to pay fees with. Never stake your entire wallet amount. Without money for fees, you can’t make any transactions!
 
@@ -44,7 +45,7 @@ In case of prolonged downtime, the slashing amount is 0.01% once. In case of dou
 :::
 
 :::info How does Secret Network service fee work?
-The protocol automatically pays a commission to all active validators participating in the minting of
+The protocol automatically pays a commission to all active validators participating in the minting of new blocks. It is a percentage on all rewards earned related to the staking power of each validator.
 :::
 
 :::info Can I vote on governance proposals?

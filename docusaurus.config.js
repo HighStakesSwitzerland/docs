@@ -54,10 +54,6 @@ const config = {
         navbar: {
           items: [
             {
-              type: 'localeDropdown',
-              position: 'left',
-            },
-            {
               type: 'html',
               value:
                   '<a class="navbar__brand" href="/"><div class="navbar__logo"><img src="/img/hss-logo.png" alt="High Stakes Switzerland Logo"></div>High Stakes 🇨🇭 Docs</a>'
@@ -85,12 +81,16 @@ const config = {
                   to: '/loyalty-program/'
                 },
                 {
+                  label: 'REStake Auto-Compounding',
+                  to: '/autocompound'
+                },
+                {
                   label: 'Stellee',
                   to: '/stellee/'
                 },
                 {
                   label: 'Staking Guides',
-                  to: '/delegating/terra'
+                  to: '/delegating/cosmos'
                 }
               ]
             },
@@ -99,7 +99,7 @@ const config = {
               items: [
                 {
                   label: 'Discord',
-                  href: 'https://discord.gg/W6hDHTVn7r'
+                  href: 'https://discord.gg/Rw4YswvKVa'
                 },
                 {
                   label: 'Twitter',
